@@ -1,0 +1,79 @@
+---
+title: Resources
+layout: default
+permalink: /resources/index.html
+---
+
+<section class="mdc-tab-bar" role="tablist">
+  <div class="mdc-tab-scroller">
+    <div class="mdc-tab-scroller__scroll-area">
+      <div class="mdc-tab-scroller__scroll-content">
+        <button class="mdc-tab mdc-tab--active" role="tab" aria-selected="true" tabindex="0">
+          <span class="mdc-tab__content">
+            <span class="mdc-tab__icon material-icons" aria-hidden="true">favorite</span>
+            <span class="mdc-tab__text-label">Bibliography</span>
+          </span>
+          <span class="mdc-tab-indicator mdc-tab-indicator--active">
+            <span class="mdc-tab-indicator__content mdc-tab-indicator__content--underline"></span>
+          </span>
+          <span class="mdc-tab__ripple"></span>
+        </button>
+        <button class="mdc-tab mdc-tab" role="tab" aria-selected="false" tabindex="-1">
+          <span class="mdc-tab__content">
+            <span class="mdc-tab__icon material-icons" aria-hidden="true">favorite</span>
+            <span class="mdc-tab__text-label">Tools</span>
+          </span>
+          <span class="mdc-tab-indicator mdc-tab-indicator">
+            <span class="mdc-tab-indicator__content mdc-tab-indicator__content--underline"></span>
+          </span>
+          <span class="mdc-tab__ripple"></span>
+        </button>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="page-content" aria-label="Content">
+  <div for="mdc-tab-bar" class="panels">
+    <div class="mdc-layout-grid">
+      <div class="mdc-layout-grid__inner">
+        <div class="mdc-layout-grid__cell">
+          <section class="panel active" role="tabpanel" aria-hidden="false">
+
+            {%- assign data = site.data.resources-bibliography | sort: "resource" -%}
+            {%- for data in data -%}
+            <div class="mdc-card mdc-card--outlined">
+              <div class="mdc-card__content">
+                <div class="mdc-card__primary">
+                  {{ data.resource | markdownify }}
+                </div>
+              </div>
+            </div>
+            {%- endfor -%}
+
+          </section>
+          <section class="panel" role="tabpanel" aria-hidden="true">
+            <ul class="mdc-list mdc-list--two-line">
+
+              {%- assign data = site.data.resources-tools | sort_natural: "title" -%}
+              {%- for data in data -%} <li>
+                <a class="mdc-list-item" href="{{ data.url }}" target="_blank" rel="noopener" {%- if forloop.first %} tabindex="0" {%- endif -%}>
+                  <span class="mdc-list-item__ripple"></span>
+                  <span class="mdc-list-item__text">
+                    <span class="mdc-list-item__primary-text">{{ data.title }}</span>
+                    <span class="mdc-list-item__secondary-text">{{ data.description }}</span>
+                  </span>
+                </a>
+              </li>
+              {%- endfor -%}
+
+            </ul>
+
+          </section>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% include javascript/mdc-tab-bar.js %}
