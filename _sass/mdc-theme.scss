@@ -14,7 +14,15 @@ body {
   color: theme.$primary;
 }
 
+a {
+  color: theme.$primary;
+}
+
 .mdc-data-table__table {
+  // width: 100%;
+}
+
+figure img {
   width: 100%;
 }
 
@@ -22,7 +30,7 @@ header {
   min-height: 97vh;
   color: rgba(255, 255, 255, 0.7);
   background-color: theme.$secondary;
-  border-top: 3vh solid theme.$primary;
+  border-bottom: 3vh solid theme.$primary;
   display: flex;
 
   & > div:first-child {
