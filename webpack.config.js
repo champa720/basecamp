@@ -16,7 +16,7 @@ module.exports = [{
         {
           loader: 'file-loader',
           options: {
-            name: './assets/css/style.css',
+            name: './assets/css/style.min.css',
           },
         },
         {loader: 'extract-loader'},
