@@ -41,6 +41,7 @@ social:
 # https://material.io/resources/color
 ################################################################################
 theme: null
+future: false
 date_format: "%Y %B %d" # http://shopify.github.io/liquid/filters/date/
 collections_dir: archive
 collections:
