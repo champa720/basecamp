@@ -1,5 +1,10 @@
 # Quick Build Notes
 
+Building jekyll site
+```
+JEKYLL_ENV=production bundle exec jekyll build -d ../_site/v1
+```
+
 Updating npm packages within version
 ```
 npm update --save-dev &&

@@ -1,5 +1,6 @@
 ---
-title: 
+published: false
+title:
 media:
   - type:
     URL:

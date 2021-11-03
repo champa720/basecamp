@@ -34,7 +34,7 @@ layout: default
                 </div>
               </div>
               <div class="mdc-card__actions">
-                <a class="mdc-button mdc-card__action mdc-card__action--button" href="{{ page.url }}">
+                <a class="mdc-button mdc-card__action mdc-card__action--button" href="{{ page.url | relative_url }}">
                   <div class="mdc-button__ripple"></div>
                   <span class="mdc-button__label">View collection</span>
                 </a>
@@ -53,7 +53,7 @@ layout: default
 
             {%- for post in site.posts limit:5 -%}
             <li>
-              <a class="mdc-list-item" href="{{ post.url }}" {%- if forloop.first %} tabindex="0" {%- endif -%}>
+              <a class="mdc-list-item" href="{{ post.url | relative_url }}" {%- if forloop.first %} tabindex="0" {%- endif -%}>
                 <span class="mdc-list-item__ripple"></span>
                 <span class="mdc-list-item__text">
                   <span class="mdc-list-item__primary-text">{{ post.title }}</span>
@@ -96,7 +96,7 @@ layout: default
           <li class="mdc-image-list__item">
             <a href="{{ publication.url }}" target="_blank" rel="noopener">
               <div class="!mdc-image-list__image-aspect-container">
-                <img class="mdc-image-list__image" src="{{ publication.img | prepend: '/assets/img' }}" alt="" role="presentation">
+                <img class="mdc-image-list__image" src="{{ publication.img | prepend: '/v1/assets/img' }}" alt="" role="presentation">
               </div>
               <div class="mdc-image-list__supporting">
                 <span class="mdc-image-list__label">{{ publication.title }}</span>
