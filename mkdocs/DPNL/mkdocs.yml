@@ -1,0 +1,10 @@
+INHERIT: ../mkdocs.yml
+site_name: Digital Pedagogies & New Literacies
+site_url: https://example.com/DPNL
+site_dir: ../_site/DPNL
+edit_uri: edit/master/mkdocs/DPNL/docs/
+
+theme:
+  palette:
+    primary: yellow
+    accent: orange

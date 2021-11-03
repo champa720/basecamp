@@ -1,0 +1,10 @@
+INHERIT: ../mkdocs.yml
+site_name: Learning Experience Design
+site_url: https://example.com/LXD
+site_dir: ../_site/LXD
+edit_uri: edit/master/mkdocs/LXD/docs/
+
+theme:
+  palette:
+    primary: green
+    accent: yellow

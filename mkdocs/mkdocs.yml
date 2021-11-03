@@ -1,0 +1,52 @@
+site_name: Jason Sohvi Noska
+site_url: https://example.com/
+repo_url: https://github.com/champa720/basecamp
+repo_name: champa720/basecamp
+
+theme:
+  name: material
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    - navigation.instant
+    - navigation.tabs
+    # - navigation.tabs.sticky
+    # - navigation.tracking
+    # - navigation.expand
+    - navigation.indexes
+
+
+
+  palette:
+    scheme: slate
+    # - media: "(prefers-color-scheme: light)"
+    #   scheme: default
+    #   toggle:
+    #     icon: material/weather-sunny
+    #     name: Switch to dark mode
+    # - media: "(prefers-color-scheme: dark)"
+    #   scheme: slate
+    #   toggle:
+    #     icon: material/weather-night
+    #     name: Switch to light mode
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/
+    - icon: fontawesome/brands/youtube
+      link: https://youtube.com/
+    - icon: fontawesome/brands/soundcloud
+      link: https://soundcloud.com/
+    - icon: fontawesome/brands/github
+      link: https://github.com/
+
+markdown_extensions:
+
+  # Python Markdown
+  - meta
+  - toc:
+      permalink: true
+
+  # Python Markdown Extensions
+  - pymdownx.highlight
+  - pymdownx.superfences
