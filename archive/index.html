@@ -1,0 +1,68 @@
+---
+title: Archive
+layout: default
+permalink: /archive/index.html
+---
+
+<!-- all site categories -->
+{%- assign all_posts = site.posts | group_by: "date" -%}
+
+<!-- all site collections -->
+{%- assign all_collections = site.collections | group_by: "date" -%}
+
+<!-- all site data -->
+{%- assign data1 = site.data.media-artifacts | group_by: "date" -%}
+<!-- no dates {%- assign data2 = site.data.resources-bibliography | group_by: "date" -%} -->
+<!-- no dates {%- assign data3 = site.data.resources-tools | group_by: "date" -%} -->
+
+<!-- basecamp archive -->
+{%- assign basecamp = all_posts | concat: all_collections | concat: data1 | sort_natural | reverse -%}
+
+
+
+<div class="mdc-layout-grid">
+  <div class="mdc-layout-grid__inner">
+    <div class="mdc-layout-grid__cell">
+
+      <section>
+        <div class="mdc-layout-grid__inner">
+
+          {%- assign basecamp = site.ideas
+                      | concat: site.categories.learnings
+                      | concat: site.data.media-artifacts
+                      | concat: site.categories.readings
+                      | concat: site.categories.reflections
+                      | concat: site.data.resources-bibliography
+                      | concat: site.data.resources-tools
+                      | concat: site.categories.thoughts
+                      | sort_natural: "date" -%}
+
+          {%- for post in basecamp -%}{%- if post.title != null -%}
+          <div class="mdc-layout-grid__cell">
+            <div id="{{page.title | downcase }}" class="mdc-card mdc-card--outlined">
+              <div class="mdc-card__content">
+                <div class="mdc-card__primary">
+                  <span class="mdc-card__primary-overline">{{ post.dir }}</span>
+                  <h2 class="mdc-card__primary-headline">{{ post.title }}</h2>
+                  <time class="mdc-card__primary-overline" datetime="{{ page.date | date_to_xmlschema }}">{{ post.date | date: site.date_format }}</time>
+                  <div class="mdc-card__primary-body">
+                    <span class="mdc-card__primary-body">{{ post.content | strip_html | truncatewords:35 }}</span>
+                  </div>
+                </div>
+              </div>
+              <div class="mdc-card__actions">
+                <a class="mdc-button mdc-card__action mdc-card__action--button" href="{{ post.url }}">
+                  <div class="mdc-button__ripple"></div>
+                  <span class="mdc-button__label">View post</span>
+                </a>
+              </div>
+            </div>
+          </div>
+          {%- endif -%}{%- endfor -%}
+
+        </div>
+      </section>
+
+    </div>
+  </div>
+</div>

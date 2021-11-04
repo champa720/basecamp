@@ -1,0 +1,72 @@
+@use "@material/theme";
+@use "@material/theme/custom-properties";
+
+body {
+  //background-color: theme.$background;
+  //color: theme.$on-primary;
+  // theme.$text-primary-on-dark;
+  // theme.$text-secondary-on-dark;
+  // theme.$text-hint-on-dark;
+  // theme.$text-icon-on-dark;
+}
+
+.mdc-data-table a {
+  color: theme.$primary;
+}
+
+a {
+  color: theme.$primary;
+}
+
+.mdc-data-table__table {
+  // width: 100%;
+}
+
+figure img {
+  width: 100%;
+}
+
+header {
+  min-height: 97vh;
+  color: rgba(255, 255, 255, 0.7);
+  background-color: theme.$secondary;
+  border-bottom: 3vh solid theme.$primary;
+  display: flex;
+
+  & > div:first-child {
+    display: flex;
+    flex-grow: 1;
+    align-items: center;
+  }
+
+  & .wrapper {
+    display: block;
+  }
+}
+
+footer {
+  min-height: 97vh;
+  background-color: theme.$primary;
+  border-top: 3vh solid theme.$secondary;
+  display: flex;
+
+  & > div:first-child {
+    display: flex;
+    flex-grow: 1;
+    align-items: center;
+  }
+}
+
+
+
+
+
+// accent colors
+// #ideas "#D50000";          //red accent 700
+// #learnings "#FF6D00";   //orange accent 700
+// #media "#FFD600";       //yellow accent 700
+// #readings  "#00C853";    //green accent 700
+// #reflections "#2962FF";   //blue accent 700
+// #resources "#304FFE";   //indigo accent 700
+// #thoughts "#6200EA";    //violet accent 700
+// @include theme.property(color, custom-properties.create(--foo-color, white));
