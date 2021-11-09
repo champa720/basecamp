@@ -1,1 +1,1 @@
-Sitemap: https://j.sohvi.design/v1/sitemap.xml
+Sitemap: https://j.sohvi.design/basecamp/v1/sitemap.xml
