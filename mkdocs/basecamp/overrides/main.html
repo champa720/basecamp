@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+
+{% block hero %} {% if page and page.meta and page.meta.background %}
+<!-- Background for index page -->
+  <section class="mdx-background--{{ page.meta.background }}">
+    <!-- Hero image -->
+  </section>
+{% else %}
+<!-- Background for index page -->
+  <section class="mdx-background">
+    <!-- Hero image -->
+  </section>
+{% endif %} {% endblock %}

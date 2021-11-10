@@ -1,3 +1,0 @@
-Process Summary
-
-After gathering data through interviewing and surveying stakeholders, we developed an understanding of the learning needs. We organized the needs to form a goal and objectives and iterated through a learner’s journey to arrive at a workable solution. A solution for these needs was developed called the Ambassador Leaders program. Learner feedback will be used to iterate the Ambassador Leaders program to allow for growth and improvement. With effective implementation of the Ambassador Leaders program, Colorado Adult educators should have improved instructional practices, a professional learning community, and increased advocacy for adult education funding.

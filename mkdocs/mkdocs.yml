@@ -1,34 +1,45 @@
-site_name: Jason Sohvi Noska
-site_url: https://example.com/
-repo_url: https://github.com/champa720/basecamp
 repo_name: champa720/basecamp
+repo_url: https://github.com/champa720/basecamp
+site_name: Jason Sohvi Noska
+site_url: https://j.sohvi.design
 
+################################################################################
 theme:
-  name: material
-  icon:
-    repo: fontawesome/brands/github
+  custom_dir: overrides
+  favicon: assets/images/logo--light.png
   features:
+    - navigation.indexes
     - navigation.instant
     - navigation.tabs
-    # - navigation.tabs.sticky
-    # - navigation.tracking
+    - navigation.tabs.sticky
+    - navigation.top
     # - navigation.expand
-    - navigation.indexes
-
-
-
+    # - navigation.sections
+    # - navigation.tracking
+  icon:
+    logo: material/heart
+    repo: fontawesome/brands/github
+  name: material
   palette:
     scheme: slate
-    # - media: "(prefers-color-scheme: light)"
-    #   scheme: default
-    #   toggle:
-    #     icon: material/weather-sunny
-    #     name: Switch to dark mode
     # - media: "(prefers-color-scheme: dark)"
     #   scheme: slate
     #   toggle:
     #     icon: material/weather-night
     #     name: Switch to light mode
+    # - media: "(prefers-color-scheme: light)"
+    #   scheme: default
+    #   toggle:
+    #     icon: material/weather-sunny
+    #     name: Switch to dark mode
+
+################################################################################
+extra:
+  homepage: https://j.sohvi.design
+extra_css:
+  - assets/stylesheets/extend.css
+  
+################################################################################
 extra:
   social:
     - icon: fontawesome/brands/linkedin
@@ -40,13 +51,21 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/
 
+################################################################################
 markdown_extensions:
 
   # Python Markdown
+  - admonition          # Admonition
   - meta
   - toc:
-      permalink: true
+      permalink: true   # Header links
+      toc_depth: 2      # Default 6
+  - attr_list           # Images
+  - md_in_html          # Images
+  - tables              # Data tables
 
   # Python Markdown Extensions
+  - pymdownx.details
   - pymdownx.highlight
+  - pymdownx.snippets
   - pymdownx.superfences
