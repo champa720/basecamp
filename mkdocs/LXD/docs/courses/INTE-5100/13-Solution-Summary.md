@@ -1,3 +1,0 @@
-Solution Summary
-
-Ambassador Leaders is a robust solution designed to support Colorado Adult Educators, through advocacy endeavors, professional learning opportunities, and the development of a professional community. Advocacy will come in multiple forms, from Teacher & Student Ambassadors to public policy. Professional learning opportunities through microlearning experiences will center around desired learning topics and applicable high-impact practices. Professional learning communities will be developed through collaborative opportunities in forums and sharing implementation experiences. Through Ambassador Leaders, Adult Educators will find increased support in Colorado.

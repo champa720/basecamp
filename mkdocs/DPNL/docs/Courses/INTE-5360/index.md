@@ -1,1 +1,0 @@
-# Critical Digital Pedagogy
