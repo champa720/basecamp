@@ -38,18 +38,18 @@ extra:
   homepage: https://j.sohvi.design
 extra_css:
   - assets/stylesheets/extend.css
-  
+
 ################################################################################
 extra:
   social:
     - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/
+      link: https://www.linkedin.com/in/jason-k-17111717
     - icon: fontawesome/brands/youtube
-      link: https://youtube.com/
+      link: https://youtube.com/playlist?list=PLqpuloa9jUuJMllESrcOHaUlZWxMzReXa
     - icon: fontawesome/brands/soundcloud
-      link: https://soundcloud.com/
+      link: http://soundcloud.com/champa720
     - icon: fontawesome/brands/github
-      link: https://github.com/
+      link: http://github.com/champa720
 
 ################################################################################
 markdown_extensions:
