@@ -2,7 +2,8 @@
 INTE: 5300
 title: Fair Use, Media Responsibility, and Digital Citizenship
 media:
-  - title: Little America: The Jaguar, Season 1, Episode 2
+  - title: >
+      Little America: The Jaguar, Season 1, Episode 2
     url: https://youtu.be/owaBqCNyPuI
 ---
 
