@@ -2,427 +2,492 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://j.sohvi.design/basecamp/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/</loc>
-         <lastmod>2021-11-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-5300/2021-06-13-overview/</loc>
-         <lastmod>2021-11-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-5300/2021-06-20-media-and-the-most-vulnerable-population/</loc>
-         <lastmod>2021-11-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-5300/2021-06-27-gender-in-the-media/</loc>
-         <lastmod>2021-11-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-5300/2021-07-06-examining-portrayals-of-race-in-the-media/</loc>
-         <lastmod>2021-11-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-5300/2021-07-11-the-mean-world-syndrome-media-violence-and-the-cultivation-of-fear/</loc>
-         <lastmod>2021-11-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-5300/2021-07-18-fair-use-media-responsibility-and-digital-citizenship/</loc>
-         <lastmod>2021-11-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-5300/2021-07-25-exploring-media-literacys-role-in-sociopolitical-development/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-5300/2021-07-31-final-projects/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-5300/Media-Deconstruction/2021-06-13-overview/</loc>
+         <lastmod>2021-11-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-5300/Media-Deconstruction/2021-06-20-media-and-the-most-vulnerable-population/</loc>
+         <lastmod>2021-11-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-5300/Media-Deconstruction/2021-06-27-gender-in-the-media/</loc>
+         <lastmod>2021-11-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-5300/Media-Deconstruction/2021-07-06-examining-portrayals-of-race-in-the-media/</loc>
+         <lastmod>2021-11-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-5300/Media-Deconstruction/2021-07-11-the-mean-world-syndrome-media-violence-and-the-cultivation-of-fear/</loc>
+         <lastmod>2021-11-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-5300/Media-Deconstruction/2021-07-18-fair-use-media-responsibility-and-digital-citizenship/</loc>
+         <lastmod>2021-11-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-5300/Media-Deconstruction/2021-07-25-exploring-media-literacys-role-in-sociopolitical-development/</loc>
+         <lastmod>2021-11-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-5300/Media-Use-Journal/2021-06-13-overview/</loc>
+         <lastmod>2021-11-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-5300/Media-Use-Journal/2021-06-20-media-and-the-most-vulnerable-population/</loc>
+         <lastmod>2021-11-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-5300/Media-Use-Journal/2021-06-27-gender-in-the-media/</loc>
+         <lastmod>2021-11-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-5300/Media-Use-Journal/2021-07-06-examining-portrayals-of-race-in-the-media/</loc>
+         <lastmod>2021-11-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-5300/Media-Use-Journal/2021-07-11-the-mean-world-syndrome-media-violence-and-the-cultivation-of-fear/</loc>
+         <lastmod>2021-11-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-5300/Media-Use-Journal/2021-07-18-fair-use-media-responsibility-and-digital-citizenship/</loc>
+         <lastmod>2021-11-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-5300/Media-Use-Journal/2021-07-25-exploring-media-literacys-role-in-sociopolitical-development/</loc>
+         <lastmod>2021-11-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-5300/Reflections/2021-06-13-overview/</loc>
+         <lastmod>2021-11-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-5300/Reflections/2021-06-20-media-and-the-most-vulnerable-population/</loc>
+         <lastmod>2021-11-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-5300/Reflections/2021-06-27-gender-in-the-media/</loc>
+         <lastmod>2021-11-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-5300/Reflections/2021-07-11-the-mean-world-syndrome-media-violence-and-the-cultivation-of-fear/</loc>
+         <lastmod>2021-11-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-5300/Reflections/2021-07-18-fair-use-media-responsibility-and-digital-citizenship/</loc>
+         <lastmod>2021-11-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-5300/Reflections/2021-07-25-exploring-media-literacys-role-in-sociopolitical-development/</loc>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-5340/2021-02-06-mid-storything-1/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-5340/2021-02-13-mini-storything-1/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-5340/2021-02-20-mini-storything-2/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-5340/2021-02-27-mid-storything-2/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-5340/2021-03-13-mini-storything-3/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-5340/2021-03-20-mini-storything-4/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-5340/2021-03-27-mid-storything-3/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-5340/2021-04-03-mini-storything-5/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-5340/2021-04-10-mini-storything-6/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-5340/2021-04-17-mini-storything-7/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-5340/2021-05-01-mega-storything/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-5360/2021-09-07-reflection-1/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-5360/2021-09-07-reflection-2/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-5360/2021-09-07-reflection-3/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-5360/2021-09-07-reflection-4/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-5360/2021-09-17-INTE-5360/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-5360/2021-09-22-reflection/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-5360/2021-09-30-INTE-5360/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-5360/2021-10-03-INTE-5360/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-5360/2021-10-06-INTE-5360/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-5360/2021-10-13-INTE-5360/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-6720/2021-09-04-resource-scan/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-6720/2021-09-11-data-synopsis/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-6720/2021-10-02-project-1/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-6720/2021-10-23-project-2/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Digital-Pedagogy/INTE-6720/2021-11-27-project-3/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Learning-Experience-Design/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Learning-Experience-Design/INTE-5100/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Learning-Experience-Design/INTE-5100/2020-12-06-design-document-ambassador-leaders/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Learning-Experience-Design/INTE-5660/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Learning-Experience-Design/INTE-5660/2020-11-22-design-document-information-technology/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Learning-Experience-Design/INTE-5680/2021-02-07-record-a-podcast/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Learning-Experience-Design/INTE-5680/2021-02-28-create-a-video/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Learning-Experience-Design/INTE-5680/2021-03-13-mobile-media-project/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Learning-Experience-Design/INTE-5680/2021-03-28-alternate-media-project/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Learning-Experience-Design/INTE-5680/2021-04-11-imitation-is-the-sincerest-form-of-flattery/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Learning-Experience-Design/INTE-5680/2021-04-11-in-thirty-seconds/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Learning-Experience-Design/INTE-5680/2021-04-11-scavenger-hunt-screencast/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Learning-Experience-Design/INTE-5680/2021-04-11-sound-seeing-tour/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Learning-Experience-Design/INTE-5680/2021-04-26-final-project/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Learning-Experience-Design/INTE-5711/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Learning-Experience-Design/INTE-5711/2021-06-10-logo/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Learning-Experience-Design/INTE-5711/2021-06-20-designs-for-low-back-pain/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Learning-Experience-Design/INTE-5711/2021-07-11-design-document-presentation/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Learning-Experience-Design/INTE-5711/2021-07-25-design-document-infographic/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Reflections/2020-06-24-INTE-5711-microfiction-challenge/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Reflections/2020-09-05-INTE-5660-marissa-arnquist/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Reflections/2020-09-08-INTE-5660-moores-checklist/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Reflections/2020-09-13-INTE-5100-design-framework-deconstruction/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Reflections/2020-09-15-INTE-5660-four-types-of-elearning/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Reflections/2020-09-21-INTE-5660-achieving-flow/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Reflections/2020-09-21-INTE-5660-intrinsic-elearning/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Reflections/2020-09-30-INTE-5660-flow-state/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Reflections/2020-10-04-INTE-5100-radical-design/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Reflections/2020-10-11-INTE-5660-michael-allen/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Reflections/2020-10-12-INTE-5660-udl-in-ldt/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Reflections/2020-10-26-INTE-5660-school-in-the-clouds/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Reflections/2020-11-01-INTE-5100-evaluation-and-data/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Reflections/2020-11-08-INTE-5660-connectivism/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Reflections/2020-12-07-INTE-5660-the-future-of-elearning/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Reflections/2020-12-13-INTE-5660-the-course-question/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Reflections/2021-01-15-emotional-intelligence/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Reflections/2021-01-24-INTE-5680-orientation/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Reflections/2021-01-29-INTE-5680-can-you-hear-me-now/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Reflections/2021-02-15-unconscious-bias/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Reflections/2021-02-25-INTE-5680-its-a-trap-video/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Reflections/2021-03-14-INTE-5680-going-mobile/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Reflections/2021-03-15-accessability/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Reflections/2021-06-13-INTE-5300-overview/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Reflections/2021-06-20-INTE-5300-media-and-the-most-vulnerable-population/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Resources/Creative-Designs/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Resources/Critical-Digital-Literacies/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Resources/Critical-Digital-Pedagogy/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Resources/Digital-Stories/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://j.sohvi.design/basecamp/Resources/eLearning/</loc>
-         <lastmod>2021-11-14</lastmod>
+         <lastmod>2021-11-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
