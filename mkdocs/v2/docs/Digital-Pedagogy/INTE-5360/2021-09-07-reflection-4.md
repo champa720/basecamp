@@ -6,6 +6,6 @@ INTE: 5360
 
 Here's my thoughts and keeping it simple...
 
--  critical = reflective in thought, dialogue, and practices
--  digital = a specific space and element
--  pedagogy = methodologies, ideologies , and philosophies
+-  Critical = reflective in thought, dialogue, and practices
+-  Digital = a specific space and element
+-  Pedagogy = ideologies, methodologies, and philosophies
