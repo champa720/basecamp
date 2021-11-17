@@ -7,11 +7,11 @@ media:
     url: https://youtu.be/owaBqCNyPuI
 ---
 
-## Reflection
-
 <div class="aspect-ratio aspect-ratio--16-9">
   <iframe class="aspect-ratio--content" src="https://ucdenver.kanopy.com/embed/261953?v=20190405" title="Other People's Footage - Copyright and Fair Use" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+## Reflection
 
 1.  **Consider this statement: “Fair use is not a get out of jail free card. Use work and transform it, but understand the law.” In what ways does this adequately sum up fair use?**
 

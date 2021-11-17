@@ -5,9 +5,9 @@ media:
   - title: Killing Us Softly - Advertising's Image of Women
     url: https://ucdenver.kanopy.com/embed/216733?v=20190405
     site: https://ucdenver.kanopy.com/video/killing-us-softly
-  - title: video
+  - title: Montana Tucker - Be Myself ft. Todrick Hall
     url: https://youtu.be/n-GNAkpo8Pc
-  - title: video
+  - title: "Be Myself" Times Square Flashmob!
     url: https://youtu.be/a6kbmdhUCY8
 ---
 
@@ -21,17 +21,17 @@ Be sure to submit the lyrics of the song and a link to a video (if you can find 
 
 I selected this song primarily for the video because the video captures some of Jeanne Kilburn's criticisms of media driven gender expressions ([Wikipedia](https://en.wikipedia.org/wiki/Gender_expression)). The lyrics break down the idea that gender expressions in the binary of masculinity and femininity box people in, and at the end of the day we want to be free. Additionally, the distribution of the song further shows the nuances of today’s advertising and was likely emerging at the time of the documentary. I will attempt to peel back the many layers in this new media of advertising.
 
-### Montana Tucker - Be Myself ft. Todrick Hall
-
 <div class="aspect-ratio aspect-ratio--16-9">
   <iframe class="aspect-ratio--content" src="https://www.youtube-nocookie.com/embed/n-GNAkpo8Pc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-### "Be Myself" Times Square Flashmob!
+[Montana Tucker - Be Myself ft. Todrick Hall](https://youtu.be/n-GNAkpo8Pc)
 
 <div class="aspect-ratio aspect-ratio--16-9">
   <iframe class="aspect-ratio--content" src="https://www.youtube-nocookie.com/embed/a6kbmdhUCY8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+["Be Myself" Times Square Flashmob!](https://youtu.be/a6kbmdhUCY8)
 
 1. **Who created this message?**
 

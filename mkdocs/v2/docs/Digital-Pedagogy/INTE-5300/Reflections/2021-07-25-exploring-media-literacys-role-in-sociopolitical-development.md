@@ -6,11 +6,11 @@ media:
     url: https://youtu.be/wHmdfVjAYnQ
 ---
 
-## Reflection
-
 Watts, R.J., Griffith, D.M. & Abdul-Adil, J. (1999) Sociopolitical development as an antidote for oppression—theory and action. Am J Community Psychol 27,2. pp.255–271. <https://doi.org/10.1023/A:1022839818873>
 
 Watts, R., Hipolito-Delgado, C. (2015) Thinking ourselves to liberation?: Advancing sociopolitical action in critical consciousness. Urban Review. 47,5. pp.847-867. <https://doi.org/10.1007/s11256-015-0341-x>
+
+## Reflection
 
 1.  **Describe your understanding of the concept of sociopolitical development. Using this definition as a guide, do you agree with the Watts' viewpoint that sociopolitical development is vital to human development and the creation of a just society? Why or why not?**
 
