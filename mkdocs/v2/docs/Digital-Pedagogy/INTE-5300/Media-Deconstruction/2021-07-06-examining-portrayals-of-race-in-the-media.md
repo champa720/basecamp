@@ -17,13 +17,11 @@ media:
   - title: White Like Me
     url: https://ucdenver.kanopy.com/embed/93032?v=20190405
     site: https://ucdenver.kanopy.com/video/white-me-0
-  - title: video
-    url: https://youtu.be/LYt5HEabwvM
-  - title: video
+  - title: Woke | Season 1 Trailer
+    url: https://youtu.be/ZzHa6XIx5nM
+  - title: Lamorne Morris - Eliminating Black Stereotypes Through “Woke”
     url: https://youtu.be/sNvYzmFsAi8
 ---
-
-## Media Deconstruction
 
 1. Find any media message, a printed message, a news episode, a television show, an image of a protest sign, a billboard, a speech, a song, a book... literally ANY public message that is out in the world that you feel is commen!ng on, or making a statement about, or has to do, in any way, with race and our current moment.
 2. In the Discussion below post an image or provide a link to the media message you have chosen along with your deconstruc!on of the media message you have chosen to deconstruct.
@@ -36,14 +34,12 @@ media:
     - What groups of people does this message empower? What groups does it disempower? How does this serve the media maker's interests?
     - What part of the story is not being told? How and where could you get more informa!on about the untold stories?
 
-***
-
-### Synopsis
+## Media Deconstruction
 
 Keef Knight is a black cartoonist living a life that is aware of racial inequities but held a naive belief "that it just wouldn't happen to him." The first 10 minutes of the episode show Keef moving through life, encountering many forms of unconscious bias. This comes to a head while hanging a flyer for an upcoming comic book release. Keef is knocked to the ground by police and arrested at gunpoint for matching a mugger's profile, a six-foot black male. This trauma awakens and challenges Keef to fully acknowledge and choices surrounding the racial disparities he lives with daily.
 
 <div class="aspect-ratio aspect-ratio--16-9">
-  <iframe class="aspect-ratio--content" src="https://www.youtube-nocookie.com/embed/LYt5HEabwvM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe class="aspect-ratio--content" src="https://www.youtube-nocookie.com/embed/ZzHa6XIx5nM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 1. **Who created this message?**
@@ -105,7 +101,7 @@ Keef Knight is a black cartoonist living a life that is aware of racial inequiti
 
     Trever Noah explains, "one of the major experiences of being a Black person is that even when you choose not to engage in the conversation around how Black people are treated, at some point you will be treated like a Black person... And at some point, the very Black nature of your skin means you are involved in something that you didn't choose to be involved in." Summarizing the base storyline of "Woke".
 
-#### The Lamorne Morris interview with Trevor Noah
+#### Lamorne Morris - Eliminating Black Stereotypes Through “Woke”
 
 <div class="aspect-ratio aspect-ratio--16-9">
   <iframe class="aspect-ratio--content" src="https://www.youtube-nocookie.com/embed/sNvYzmFsAi8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
