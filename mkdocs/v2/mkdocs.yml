@@ -12,5 +12,19 @@ extra:
   homepage: https://j.sohvi.design
 theme:
   palette:
-    primary: white
-    accent: pink
+    # primary: white
+    # accent: pink
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: white
+      accent: pink
+      toggle:
+       icon: material/weather-night
+       name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: white
+      accent: pink
+      toggle:
+       icon: material/weather-sunny
+       name: Switch to dark mode
