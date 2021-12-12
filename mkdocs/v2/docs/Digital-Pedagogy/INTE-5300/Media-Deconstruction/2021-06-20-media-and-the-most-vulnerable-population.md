@@ -7,8 +7,9 @@ media:
     site: https://ed.ted.com/on/CWRuB7Y9
 ---
 
-1. After completing your media journal assignment see if you can find a youtube video or image of the advertisement for that toy (or another toy) that you wanted as a child.
-2. In this Discussion Thread, post the link to the advertisement along with your Media Deconstruction using the 5 Key Questions as your guide. In this week's analysis, I want you to focus on the context of the time in history that the message was being sent. For example, the toys being targeted to me as a child in the 1970s had very different messaging due to the political and social expectations of the time. When you talk about the creator of the message, think about that company in the context of that moment in history.
+??? quote "Assignment"
+    1. After completing your media journal assignment see if you can find a youtube video or image of the advertisement for that toy (or another toy) that you wanted as a child.
+    2. In this Discussion Thread, post the link to the advertisement along with your Media Deconstruction using the 5 Key Questions as your guide. In this week's analysis, I want you to focus on the context of the time in history that the message was being sent. For example, the toys being targeted to me as a child in the 1970s had very different messaging due to the political and social expectations of the time. When you talk about the creator of the message, think about that company in the context of that moment in history.
 
 ## Media Deconstruction
 

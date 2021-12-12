@@ -4,13 +4,10 @@ URL: https://www.loom.com/share/5d186d390d9d48228de1f45b9b92a3ec
 URL: https://docs.google.com/presentation/d/1i2IZUtadOs4XOSIDnIhuaHJnSuTbwnRl5TM3WmLzf6U/edit?usp=sharing
 ---
 
-## Assignment
+??? quote "Assignment"
+    QUEST: You are the detective and the prosecutor.  Explore my backstory, find the clues and prepare your case to prosecute the catfish...
 
-QUEST: You are the detective and the prosecutor.  Explore my backstory, find the clues and prepare your case to prosecute the catfish...
-
-Your prosecution should be like that of a trial lawyer.  Have your proof in order and present your case to the jury (the class).  You must make your case in the format of a digital-story.  You must convince us beyond a reasonable doubt that _______ is in fact, the catfish.    
-
-***
+    Your prosecution should be like that of a trial lawyer.  Have your proof in order and present your case to the jury (the class).  You must make your case in the format of a digital-story.  You must convince us beyond a reasonable doubt that _______ is in fact, the catfish.
 
 <div class="aspect-ratio aspect-ratio--16-9">
   <iframe class="aspect-ratio--content" src="https://www.loom.com/embed/5d186d390d9d48228de1f45b9b92a3ec" title="Loom video " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

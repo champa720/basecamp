@@ -11,17 +11,18 @@ media:
     url: https://youtu.be/a6kbmdhUCY8
 ---
 
-1. Count and record how many thin and non-thin women you see. Describe the clothes worn and roles played by the thin women versus the non-thin women. After you have completed this step write a reflection in your journal based on the following prompts;
+??? quote "Assignment"
+    1. Count and record how many thin and non-thin women you see. Describe the clothes worn and roles played by the thin women versus the non-thin women. After you have completed this step write a reflection in your journal based on the following prompts;
 
-    - What did you notice about the differences between how thin women were portrayed on television versus the way non-thin women were portrayed?
-    - Do you think these portrayals have the power to shape how young girls and women see themselves and others? How so? How about the way that young boys and men see girls and women?
-    - Eating disorder specialists cite the influence of the media as one influential factor in the development of eating disorders among young women. In what ways do you think the media supports eating-disordered attitudes and behaviors?
+        - What did you notice about the differences between how thin women were portrayed on television versus the way non-thin women were portrayed?
+        - Do you think these portrayals have the power to shape how young girls and women see themselves and others? How so? How about the way that young boys and men see girls and women?
+        - Eating disorder specialists cite the influence of the media as one influential factor in the development of eating disorders among young women. In what ways do you think the media supports eating-disordered attitudes and behaviors?
 
-2. Next Count and record examples of times when a young woman, or girl, is sexualized in an advertisement. After you have completed this step write a reflection in your journal based on the following prompts;
+    2. Next Count and record examples of times when a young woman, or girl, is sexualized in an advertisement. After you have completed this step write a reflection in your journal based on the following prompts;
 
-    - What message does this image send to young girls about sex?
-    - What message does this image send to young boys about sex?
-    - What do you think it says to older men?
+        - What message does this image send to young girls about sex?
+        - What message does this image send to young boys about sex?
+        - What do you think it says to older men?
 
 ## Media Use Journal
 

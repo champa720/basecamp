@@ -3,18 +3,14 @@ title: Vintage poster
 URL:
 ---
 
-## Assignment
+??? quote "Assignment"
+    Remix a historic poster, advertisement or magazine cover with a modern context. \#graphic-design
 
-Remix a historic poster, advertisement or magazine cover with a modern context.
-\#graphic-design
+    **Requirements**
 
-### Requirements
-
--   Original material must come from the public domain.
--   Provide context. Tell us any backstory, irony, or nuance.
--   Include a side-by-side comparison to the original image.
-
-***
+    -   Original material must come from the public domain.
+    -   Provide context. Tell us any backstory, irony, or nuance.
+    -   Include a side-by-side comparison to the original image.
 
 <figure markdown>
   ![Vintage poster](./assets/2021-02-27-INTE-5340-Vintage-Poster--remix-1.png)

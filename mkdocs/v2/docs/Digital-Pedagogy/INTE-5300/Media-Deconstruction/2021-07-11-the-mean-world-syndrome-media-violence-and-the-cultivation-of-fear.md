@@ -13,9 +13,10 @@ media:
     url: https://www.youtube.com/watch?v=HfnuFrE5_M0
 ---
 
-Like last week, you will use the 5 Key Questions of Media Literacy to deconstruct the ads and clips below. In addition to the 5 Key questions, I have developed a Media Artifact Interrogation and Analysis Framework to assist teachers and students expand their analysis of critical media literacy to include how media messages address global/historical focus, race, culture, violence, power, and happiness. These questions are designed to supplement the 5 Key Questions of Media Literacy to inspire sociopolitical development and action.
+??? quote "Assignment"
+    Like last week, you will use the 5 Key Questions of Media Literacy to deconstruct the ads and clips below. In addition to the 5 Key questions, I have developed a Media Artifact Interrogation and Analysis Framework to assist teachers and students expand their analysis of critical media literacy to include how media messages address global/historical focus, race, culture, violence, power, and happiness. These questions are designed to supplement the 5 Key Questions of Media Literacy to inspire sociopolitical development and action.
 
-As you are looking at the examples in this Media Deconstruction Exercise use the five key questions and consider the media artifact in terms of these supplemental questions. You do not have to answer all of the questions for each artifact - just the ones that stand out to you like the most pertinent.
+    As you are looking at the examples in this Media Deconstruction Exercise use the five key questions and consider the media artifact in terms of these supplemental questions. You do not have to answer all of the questions for each artifact - just the ones that stand out to you like the most pertinent.
 
 ## Media Deconstruction 1
 

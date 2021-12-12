@@ -7,8 +7,9 @@ media:
     site: https://ed.ted.com/on/CWRuB7Y9
 ---
 
-This week I would like you to reflect upon your childhood and how adver!sers
-found you.
+??? quote "Assignment"
+    This week I would like you to reflect upon your childhood and how adver!sers
+    found you.
 
 ## Media Use Journal
 

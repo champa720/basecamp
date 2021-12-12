@@ -23,12 +23,13 @@ media:
     url: https://youtu.be/sNvYzmFsAi8
 ---
 
-1. Introduce the subject of your critique – the piece under analysis.
-2. Review the background facts or issues that must be understood before the point of the piece can be appreciated: significance, design, appeal, and so on.
-3. Review the assumptions in the piece that must be understood before you take a position.
-4. Make your position statement clear: what is your evaluation? On what basis are you making it, given what you have stated in #2 and #3?
-5. Review the author’s ideas in light of the position you identified and elaborate on each point that relates to your central position.
-6. State your conclusions, reminding the audience of the points you have made and your reasons for making them.
+??? quote "Assignment"
+    1. Introduce the subject of your critique – the piece under analysis.
+    2. Review the background facts or issues that must be understood before the point of the piece can be appreciated: significance, design, appeal, and so on.
+    3. Review the assumptions in the piece that must be understood before you take a position.
+    4. Make your position statement clear: what is your evaluation? On what basis are you making it, given what you have stated in #2 and #3?
+    5. Review the author’s ideas in light of the position you identified and elaborate on each point that relates to your central position.
+    6. State your conclusions, reminding the audience of the points you have made and your reasons for making them.
 
 ## Critical Analysis
 

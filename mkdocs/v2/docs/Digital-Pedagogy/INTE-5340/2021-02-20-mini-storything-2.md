@@ -3,11 +3,8 @@ title: Design Your Tribes Ink
 URL:
 ---
 
-## Assignment
-
-Now that you're part of a tribe, show some pride by designing your own tattoo that is symbolic of your tribe's culture. Step 1: Pick out an icon or set of icons at the Noun Project Website and remix it into your own unique design and post it to the # Mini-things channel. Here's the catch, don't let the other teams know your team's name. Step 2: Try to guess what the other team's name is through astute analysis.
-
-***
+??? quote "Assignment"
+    Now that you're part of a tribe, show some pride by designing your own tattoo that is symbolic of your tribe's culture. Step 1: Pick out an icon or set of icons at the Noun Project Website and remix it into your own unique design and post it to the # Mini-things channel. Here's the catch, don't let the other teams know your team's name. Step 2: Try to guess what the other team's name is through astute analysis.
 
 <figure markdown>
   ![Design Your Tribes Ink](./assets/2021-02-20-INTE-5340-Tribes-Ink--boxy.svg.png)

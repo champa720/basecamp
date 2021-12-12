@@ -5,17 +5,14 @@ media:
     URL: https://youtu.be/HWprd5PF664
 ---
 
-## Assignment
+??? quote "Assignment"
+    Now it's time to produce a video. It will be no less than 3 minutes and no longer than 5 minutes. Projects under or over the assigned time limit will be subject to point deductions. A big part of this unit will expose you to the aspects and challenges of video production and some of the biggest challenges can be lighting, shooting, importing and editing video. You don't have to make an appearance but I do expect the project to comprise of some video content that has been shot from a camera and edited by you.
 
-Now it's time to produce a video. It will be no less than 3 minutes and no longer than 5 minutes. Projects under or over the assigned time limit will be subject to point deductions. A big part of this unit will expose you to the aspects and challenges of video production and some of the biggest challenges can be lighting, shooting, importing and editing video. You don't have to make an appearance but I do expect the project to comprise of some video content that has been shot from a camera and edited by you.
+    Topic: Let's take the mind away from academic thinking and get a little creative. For this video project you will need to choose a phrase or verse from a song and do one of the following:
 
-Topic: Let's take the mind away from academic thinking and get a little creative. For this video project you will need to choose a phrase or verse from a song and do one of the following:
-
--   Deconstruct it,
--   Act it out / illustrate it.
--   Interpret it
-
-***
+    -   Deconstruct it,
+    -   Act it out / illustrate it.
+    -   Interpret it
 
 <div class="aspect-ratio aspect-ratio--16-9">
   <iframe class="aspect-ratio--content" src="https://www.youtube-nocookie.com/embed/HWprd5PF664" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

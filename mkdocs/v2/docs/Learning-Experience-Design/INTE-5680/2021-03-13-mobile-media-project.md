@@ -5,21 +5,18 @@ media:
     URL: https://sites.google.com/view/inte-5680-mobile-mayhem/home
 ---
 
-## Assignment
+??? quote "Assignment"
+    Use a tool, format or combination from above and create a mobile media item. It can be a video, mobile webpage or mobile web app.
 
-Use a tool, format or combination from above and create a mobile media item. It can be a video, mobile webpage or mobile web app.
+    Topic: 3 Steps to success: Explain a process in 3 Steps. Examples include:
 
-Topic: 3 Steps to success: Explain a process in 3 Steps. Examples include:
+    -   Creating an agenda for the perfect meeting in 3 steps
+    -   How to remember people's names in 3 steps.
+    -   Bananas Foster in 3 steps.
 
--   Creating an agenda for the perfect meeting in 3 steps
--   How to remember people's names in 3 steps.
--   Bananas Foster in 3 steps.
+    There is no predefined time limit on this assignment. Each tool and format is different and the outcomes will vary. The time should be appropriate to that of the tool and the effectiveness of the final product.
 
-There is no predefined time limit on this assignment. Each tool and format is different and the outcomes will vary. The time should be appropriate to that of the tool and the effectiveness of the final product.
-
-Remember to think specifically about the mobile user, their experience and how media delivery and consumption may differ on a mobile device than a conventional desktop or laptop.
-
-***
+    Remember to think specifically about the mobile user, their experience and how media delivery and consumption may differ on a mobile device than a conventional desktop or laptop.
 
 <div class="aspect-ratio aspect-ratio--16-9">
   <iframe class="aspect-ratio--content" src="https://5680.sohvi.design/home" title="Google Site" frameborder="0"></iframe>

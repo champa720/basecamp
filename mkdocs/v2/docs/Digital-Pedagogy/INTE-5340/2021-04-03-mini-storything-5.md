@@ -9,11 +9,8 @@ media:
     URL: https://youtu.be/GptOuFICGhY
 ---
 
-## Assignment
-
-This is a pretty straightforward, lightweight individual assignment. Tell a story using either 10 still images, 10 short video segments, or a combination of both. You choose the topic, the characters, etc. You can use any tool you'd like to achieve it--slideshows, collage, video, PowerPoint, or something else. Once you're done, post it to the # Mini-things channel.
-
-***
+??? quote "Assignment"
+    This is a pretty straightforward, lightweight individual assignment. Tell a story using either 10 still images, 10 short video segments, or a combination of both. You choose the topic, the characters, etc. You can use any tool you'd like to achieve it--slideshows, collage, video, PowerPoint, or something else. Once you're done, post it to the # Mini-things channel.
 
 <div class="aspect-ratio aspect-ratio--16-9">
   <iframe class="aspect-ratio--content" src="https://www.youtube-nocookie.com/embed/q_k8qYgirnI" title="YouTube video " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

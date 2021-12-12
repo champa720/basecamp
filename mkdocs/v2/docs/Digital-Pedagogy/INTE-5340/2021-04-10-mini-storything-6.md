@@ -3,14 +3,12 @@ title: Use Fair Use
 URL: https://youtu.be/YVBATlyNZVQ
 ---
 
-## Assignment
-We've relied heavily on [fair use](https://fairuse.stanford.edu/overview/fair-use/what-is-fair-use/) throughout this course. Parody, satire, and recreations are all a part of fair use.
+??? quote "Assignment"
+    We've relied heavily on [fair use](https://fairuse.stanford.edu/overview/fair-use/what-is-fair-use/) throughout this course. Parody, satire, and recreations are all a part of fair use.
 
-Recreate a movie scene using video. It can be from one of your favorite movies, a classic movie, etc.
+    Recreate a movie scene using video. It can be from one of your favorite movies, a classic movie, etc.
 
-There are tons of ways you can approach the assignment—film it with a phone or camera with you as the star, direct someone else, create an illustrated flip book and record it, use your laptop and Zoom green screen, use an app on your phone, create a stop-motion-animation, or something else.
-
-***
+    There are tons of ways you can approach the assignment—film it with a phone or camera with you as the star, direct someone else, create an illustrated flip book and record it, use your laptop and Zoom green screen, use an app on your phone, create a stop-motion-animation, or something else.
 
 <div class="aspect-ratio aspect-ratio--16-9">
   <iframe class="aspect-ratio--content" src="https://www.youtube-nocookie.com/embed/YVBATlyNZVQ" title="YouTube video " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

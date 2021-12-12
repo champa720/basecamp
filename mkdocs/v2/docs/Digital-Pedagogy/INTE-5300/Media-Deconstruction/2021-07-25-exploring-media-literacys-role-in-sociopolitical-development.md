@@ -2,28 +2,29 @@
 INTE: 5300
 title: Exploring Media Literacy's role in Sociopolitical Development
 media:
-  - title:YouTube: Making the Cut, Season 2 (Trailer)
+  - title: Making the Cut, Season 2 (Trailer)
     url: https://youtu.be/wHmdfVjAYnQ
 ---
 
-1. This week please search for a media artifact to deconstruct that is meaningful to you. Perhaps it is an ad or a message that stood out to you this week. It can be anything. Please post the artifact or a link to the artifact in your threaded reply.
-2. Use the following framework to assist your analysis this week. The Media Artifact Interrogation and Analysis Framework was designed to supplement the 5 Key Questions of Media Literacy to inspire sociopolitical development, action, and to assist teachers and students in expanding their analysis of critical media literacy. It adds elements to our analysis that relate to your readings this week, including how media messages address global/historical focus, race, culture, violence, power, and happiness.
-3. You do not have to answer all of the questions for each artifact - just the ones that stand out to you as the most pertinent.
-4. Describe how you might, or might not, be able to use these questions/framework in your final project.
-    - What counts as violence?
-    - What is made public or kept private within this message?
-    - What would be the consequence of making the reverse true?
-    - Who benefits or loses in these differing situations? How is violence conveyed in this message? Who is potentially harmed by this message?
-    - What does this message say about how pain should be expressed?
-    - Are youth portrayed as powerful or weak in this message?
-    - Who benefits from this portrayal?
-    - Is this message trying to sell a product, an idea, or value?
-    - Why does this advertisement/message work on a cultural level?
-    - What is the story that this advertisement/message tells us about how we should behave?
-    - What is this advertisement or message telling us about what it means to be happy?
-    - Is there a link between this commodity/message and happiness?
-    - What does this advertisement convey what people want?
-    - What does this advertisement or message tell us about how we can become happy or feel better?
+??? quote "Assignment"
+    1. This week please search for a media artifact to deconstruct that is meaningful to you. Perhaps it is an ad or a message that stood out to you this week. It can be anything. Please post the artifact or a link to the artifact in your threaded reply.
+    2. Use the following framework to assist your analysis this week. The Media Artifact Interrogation and Analysis Framework was designed to supplement the 5 Key Questions of Media Literacy to inspire sociopolitical development, action, and to assist teachers and students in expanding their analysis of critical media literacy. It adds elements to our analysis that relate to your readings this week, including how media messages address global/historical focus, race, culture, violence, power, and happiness.
+    3. You do not have to answer all of the questions for each artifact - just the ones that stand out to you as the most pertinent.
+    4. Describe how you might, or might not, be able to use these questions/framework in your final project.
+        - What counts as violence?
+        - What is made public or kept private within this message?
+        - What would be the consequence of making the reverse true?
+        - Who benefits or loses in these differing situations? How is violence conveyed in this message? Who is potentially harmed by this message?
+        - What does this message say about how pain should be expressed?
+        - Are youth portrayed as powerful or weak in this message?
+        - Who benefits from this portrayal?
+        - Is this message trying to sell a product, an idea, or value?
+        - Why does this advertisement/message work on a cultural level?
+        - What is the story that this advertisement/message tells us about how we should behave?
+        - What is this advertisement or message telling us about what it means to be happy?
+        - Is there a link between this commodity/message and happiness?
+        - What does this advertisement convey what people want?
+        - What does this advertisement or message tell us about how we can become happy or feel better?
 
 ## Media Deconstruction
 

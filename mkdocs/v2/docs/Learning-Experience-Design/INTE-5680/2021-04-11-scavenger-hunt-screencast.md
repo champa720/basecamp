@@ -5,18 +5,15 @@ media:
     URL: https://youtu.be/8_H1HCCg79A
 ---
 
-## Assignment
+??? quote "Assignment"
+    Create a 2 - 3 minute screencast naviga!ng the world wide web taking the audience to the items on the list below. Include audio in your screen cast such as narra!on, music and/or sound effects. Your screencast will take your audience to:
 
-Create a 2 - 3 minute screencast naviga!ng the world wide web taking the audience to the items on the list below. Include audio in your screen cast such as narra!on, music and/or sound effects. Your screencast will take your audience to:
+      1. An oddity
+      2. Apassion
+      3. An inspira!on
+      4. Asurprise
 
-  1. An oddity
-  2. Apassion
-  3. An inspira!on
-  4. Asurprise
-
-*Note: You do not have to follow the list in order but you do have to cover each item on the list to get credit.*
-
-***
+    _Note: You do not have to follow the list in order but you do have to cover each item on the list to get credit._
 
 <div class="aspect-ratio aspect-ratio--16-9">
   <iframe class="aspect-ratio--content" src="https://www.youtube-nocookie.com/embed/8_H1HCCg79A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

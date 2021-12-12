@@ -3,17 +3,14 @@ title: Zoom Goldberg Machine
 URL: https://youtu.be/t5tmaOOv_N0
 ---
 
-## Assignment
+??? quote "Assignment"
+    Produce and contribute a Zoom-video for a collective class project that will be publicly shared. This is a project we have been trying to figure out for awhile. This is our inaugural effort.
 
-Produce and contribute a Zoom-video for a collective class project that will be publicly shared. This is a project we have been trying to figure out for awhile. This is our inaugural effort.
+    **Requirements**
 
-### Requirements
+    -   Record your own Zoom segment of a Zoom Goldberg Machine, like above. Use a ball or any common moving object to trigger three or more reactions as it moves from left to right.
 
--   Record your own Zoom segment of a Zoom Goldberg Machine, like above. Use a ball or any common moving object to trigger three or more reactions as it moves from left to right.
-
--   The first item must intersect with multiple other items, and send a final exit-item off-screen - -> to the next Zoomer. For the sake of consistency we are encouraging you to use one of the following for your exit-item: white ping-pong ball, white golf ball, toilet paper roll, paper towel roll, light bulb, crunched-up paper, an orange, a banana, or a pencil.
-
-***
+    -   The first item must intersect with multiple other items, and send a final exit-item off-screen - -> to the next Zoomer. For the sake of consistency we are encouraging you to use one of the following for your exit-item: white ping-pong ball, white golf ball, toilet paper roll, paper towel roll, light bulb, crunched-up paper, an orange, a banana, or a pencil.
 
 <div class="aspect-ratio aspect-ratio--16-9">
   <iframe class="aspect-ratio--content" src="https://www.youtube-nocookie.com/embed/t5tmaOOv_N0" title="YouTube video " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

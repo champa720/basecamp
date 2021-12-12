@@ -3,18 +3,14 @@ title: Artifact from the Near Future
 url: https://youtu.be/g0X6fsqqTso
 ---
 
-## Assignment
+??? quote "Assignment"
+    Create an artifact that depicts a person, place or thing from the near-future. \#audio, #video, #graphic-design, #animation
 
-Create an artifact that depicts a person, place or thing from the near-future.
-\#audio, #video, #graphic-design, #animation
+    **Requirements**
 
-### Requirements
-
--   Artifact should not make sense prior to the year 2021.
--   Artifact must tell a story, i.e. the item itself is a reflection of our society, or times, or our trajectory as a species.
--   Give us the backstory and artifact description with some detail. Why will this thing emerge and how will it impact?
-
-***
+    -   Artifact should not make sense prior to the year 2021.
+    -   Artifact must tell a story, i.e. the item itself is a reflection of our society, or times, or our trajectory as a species.
+    -   Give us the backstory and artifact description with some detail. Why will this thing emerge and how will it impact?
 
 <div class="aspect-ratio aspect-ratio--16-9">
   <iframe class="aspect-ratio--content" src="https://www.youtube-nocookie.com/embed/g0X6fsqqTso" title="YouTube video " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

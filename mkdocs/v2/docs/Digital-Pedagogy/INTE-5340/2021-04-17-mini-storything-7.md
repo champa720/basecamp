@@ -3,11 +3,8 @@ title: Marketing the Future
 URL: https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:ddfe993c-dc0d-4afd-af61-c73247009c84
 ---
 
-## Assignment
-
-For this week, create a magazine or newspaper advertisement for a product or service in the year 2050. Choice of tools is up to you.
-
-***
+??? quote "Assignment"
+    For this week, create a magazine or newspaper advertisement for a product or service in the year 2050. Choice of tools is up to you.
 
 <figure markdown>
   ![Marketing the Future](./assets/2021-04-12-INTE-5340-Marketing-the-Future--proof-1.png)

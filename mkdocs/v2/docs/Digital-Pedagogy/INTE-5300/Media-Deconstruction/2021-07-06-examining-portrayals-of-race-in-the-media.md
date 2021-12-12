@@ -23,16 +23,17 @@ media:
     url: https://youtu.be/sNvYzmFsAi8
 ---
 
-1. Find any media message, a printed message, a news episode, a television show, an image of a protest sign, a billboard, a speech, a song, a book... literally ANY public message that is out in the world that you feel is commen!ng on, or making a statement about, or has to do, in any way, with race and our current moment.
-2. In the Discussion below post an image or provide a link to the media message you have chosen along with your deconstruc!on of the media message you have chosen to deconstruct.
-3. Use the 5 Key Ques!ons to frame your deconstruc!on, however, please include the following ques!ons in your analysis:
-    - Who is the “target audience”? What is their age, ethnicity, class, profession, interests, etc.? What words, images or sounds suggest this?
-    - What is the “text” of the message? (What we actually see and/or hear: wri"en or spoken words, photos, drawings, logos, design, music, sounds, etc.)
-    - What is the “subtext” of the message? (What do you think is the hidden or unstated meaning?) What kind of lifestyle is presented? Is it glamorized? How?
-    - What values are expressed?
-    - What posi!ve messages are presented? What nega!ve messages are presented?
-    - What groups of people does this message empower? What groups does it disempower? How does this serve the media maker's interests?
-    - What part of the story is not being told? How and where could you get more informa!on about the untold stories?
+??? quote "Assignment"
+    1. Find any media message, a printed message, a news episode, a television show, an image of a protest sign, a billboard, a speech, a song, a book... literally ANY public message that is out in the world that you feel is commen!ng on, or making a statement about, or has to do, in any way, with race and our current moment.
+    2. In the Discussion below post an image or provide a link to the media message you have chosen along with your deconstruc!on of the media message you have chosen to deconstruct.
+    3. Use the 5 Key Ques!ons to frame your deconstruc!on, however, please include the following ques!ons in your analysis:
+        - Who is the “target audience”? What is their age, ethnicity, class, profession, interests, etc.? What words, images or sounds suggest this?
+        - What is the “text” of the message? (What we actually see and/or hear: wri"en or spoken words, photos, drawings, logos, design, music, sounds, etc.)
+        - What is the “subtext” of the message? (What do you think is the hidden or unstated meaning?) What kind of lifestyle is presented? Is it glamorized? How?
+        - What values are expressed?
+        - What posi!ve messages are presented? What nega!ve messages are presented?
+        - What groups of people does this message empower? What groups does it disempower? How does this serve the media maker's interests?
+        - What part of the story is not being told? How and where could you get more informa!on about the untold stories?
 
 ## Media Deconstruction
 
@@ -102,7 +103,7 @@ Keef Knight is a black cartoonist living a life that is aware of racial inequiti
     </div>
 
     [Lamorne Morris - Eliminating Black Stereotypes Through “Woke”](https://youtu.be/sNvYzmFsAi8)
-    
+
     This message is being sent to directly raise the systemic issues in America, created before the events of 2020. Lamorne says, "You can't change something unless you're faced with it". The whole series is based in experiences of black, indigenous, and other people of color (BIPOC), and this point of view will seem foreign or inaccurate to those who have not experienced or choose not to validate these experiences.
 
     Trever Noah explains, "one of the major experiences of being a Black person is that even when you choose not to engage in the conversation around how Black people are treated, at some point you will be treated like a Black person... And at some point, the very Black nature of your skin means you are involved in something that you didn't choose to be involved in." Summarizing the base storyline of "Woke".

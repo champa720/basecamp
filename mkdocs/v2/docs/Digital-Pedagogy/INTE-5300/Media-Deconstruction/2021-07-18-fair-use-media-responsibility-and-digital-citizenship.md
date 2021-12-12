@@ -7,11 +7,12 @@ media:
     url: https://youtu.be/owaBqCNyPuI
 ---
 
-Fair use safeguards your right to tell your story your way by allowing new works to be created out of old works. The three questions that must be answered with a “rock solid” yes in order to ensure an assertion of fair use is in the "safe harbor" area are;
-1. Are you using this asset to illustrate a point that you’re already making in your film? 2. Are you only using what is reasonably appropriate for the demonstration?
-3. Is the connection between what you’re using and the point that you’re illustrating clear to the average viewer?
+??? quote "Assignment"
+    Fair use safeguards your right to tell your story your way by allowing new works to be created out of old works. The three questions that must be answered with a “rock solid” yes in order to ensure an assertion of fair use is in the "safe harbor" area are;
+    1. Are you using this asset to illustrate a point that you’re already making in your film? 2. Are you only using what is reasonably appropriate for the demonstration?
+    3. Is the connection between what you’re using and the point that you’re illustrating clear to the average viewer?
 
-With reference to these three essential questions, a filmmaker o"en moves away from the safe harbor end of the fair use spectrum and into questionable areas. In fictional, scripted films, the further you move away from reality, the more difficult it is to justify fair use.
+    With reference to these three essential questions, a filmmaker o"en moves away from the safe harbor end of the fair use spectrum and into questionable areas. In fictional, scripted films, the further you move away from reality, the more difficult it is to justify fair use.
 
 ## Media Deconstruction
 

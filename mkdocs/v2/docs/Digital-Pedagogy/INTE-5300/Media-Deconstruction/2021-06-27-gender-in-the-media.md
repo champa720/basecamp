@@ -7,15 +7,16 @@ media:
     site: https://ucdenver.kanopy.com/video/killing-us-softly
   - title: Montana Tucker - Be Myself ft. Todrick Hall
     url: https://youtu.be/n-GNAkpo8Pc
-  - title: "Be Myself" Times Square Flashmob!
+  - title: Be Myself Times Square Flashmob!
     url: https://youtu.be/a6kbmdhUCY8
 ---
 
-Numerous popular songs have explored what it means to be masculine or feminine in our culture.
+??? quote "Assignment"
+    Numerous popular songs have explored what it means to be masculine or feminine in our culture.
 
-Find a song, yourself, that you feel does a good job exploring masculine and feminine themes and explain what you think the song is saying.
+    Find a song, yourself, that you feel does a good job exploring masculine and feminine themes and explain what you think the song is saying.
 
-Be sure to submit the lyrics of the song and a link to a video (if you can find one) along with a brief (a few sentences per question is fine) analysis of the song using the 5 Key Questions as your guide. Try to draw on relevant points from [Killing Us Softly 4](https://www.kanopy.com/product/killing-us-softly) (Kanopy) to support and illustrate your deconstruction and interpretation of the song.
+    Be sure to submit the lyrics of the song and a link to a video (if you can find one) along with a brief (a few sentences per question is fine) analysis of the song using the 5 Key Questions as your guide. Try to draw on relevant points from [Killing Us Softly 4](https://www.kanopy.com/product/killing-us-softly) (Kanopy) to support and illustrate your deconstruction and interpretation of the song.
 
 ## Media Deconstruction
 

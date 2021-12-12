@@ -5,13 +5,10 @@ media:
     URL: https://soundcloud.com/champa720/pantone-a-color-company
 ---
 
-## Assignment
+??? quote "Assignment"
+    Now it's time to create your own 5-10 minute audio "podcast" episode.
 
-Now it's time to create your own 5-10 minute audio "podcast" episode.
-
-Topic: "A Color" - Record a 5-10 minute audio podcast about a color. This topic is vague on purpose. Think about your content delivery since you are going to talk about something that is typically visual. A technique, popular during the golden age of radio, called "theatre of the mind" uses audio to paint a picture in the listeners head. Ultimately be creative and have fun. Projects under or over the assigned time limit will be subject to point deductions.
-
-***
+    Topic: "A Color" - Record a 5-10 minute audio podcast about a color. This topic is vague on purpose. Think about your content delivery since you are going to talk about something that is typically visual. A technique, popular during the golden age of radio, called "theatre of the mind" uses audio to paint a picture in the listeners head. Ultimately be creative and have fun. Projects under or over the assigned time limit will be subject to point deductions.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/981181336&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 

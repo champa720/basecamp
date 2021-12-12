@@ -3,11 +3,8 @@ title: Remixing with the Devil
 URL: https://youtu.be/LkSEToe1OCg
 ---
 
-## Assignment
-
-I ran across an isolated vocal track of David Lee Roth singing Running with the Devil, and couldn’t pass up using it in an assignment. Download the file and use the vocal track to create something unique. You can mash it up with movie clips, interviews, other songs, original video or audio that you record, or something completely different—just use some portion/portions of this track. Once you've done your mini-thing, post it to the # Mini-things channel.
-
-***
+??? quote "Assignment"
+    I ran across an isolated vocal track of David Lee Roth singing Running with the Devil, and couldn’t pass up using it in an assignment. Download the file and use the vocal track to create something unique. You can mash it up with movie clips, interviews, other songs, original video or audio that you record, or something completely different—just use some portion/portions of this track. Once you've done your mini-thing, post it to the # Mini-things channel.
 
 <div class="aspect-ratio aspect-ratio--16-9">
   <iframe class="aspect-ratio--content" src="https://www.youtube-nocookie.com/embed/LkSEToe1OCg" title="YouTube video " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -5,15 +5,12 @@ media:
     URL: https://youtu.be/hvsNRb1v-Xg
 ---
 
-## Assignment
+??? quote "Assignment"
+    Create a video, that is 30 seconds or less in length, Illustra!ng a concept using no spoken word. You can create your video on any concept. Have fun and be creatve. Examples topics:
 
-Create a video, that is 30 seconds or less in length, Illustra!ng a concept using no spoken word. You can create your video on any concept. Have fun and be creatve. Examples topics:
-
-- Construc!vism in 30 seconds.
-- Bloom's Taxonomy in 30 seconds.
-- The West Coast offense in 30 seconds.
-
-***
+    - Construc!vism in 30 seconds.
+    - Bloom's Taxonomy in 30 seconds.
+    - The West Coast offense in 30 seconds.
 
 <div class="aspect-ratio aspect-ratio--16-9">
   <iframe class="aspect-ratio--content" src="https://www.youtube-nocookie.com/embed/hvsNRb1v-Xg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -3,11 +3,8 @@ title: Mini-thing 1
 URL:
 ---
 
-## Assignment
-
-Last week you read an article on audience archetypes and identified your own archetype. For your first mini-thing, tell us what what your archetype is, and share a piece of media (image, gif, song, video, etc) that captures the character of your audience archetype in a post on the #Mini-things channel. Why did you choose this piece of media? How does it reflect your audience archetype?
-
-***
+??? quote "Assignment"
+    Last week you read an article on audience archetypes and identified your own archetype. For your first mini-thing, tell us what what your archetype is, and share a piece of media (image, gif, song, video, etc) that captures the character of your audience archetype in a post on the #Mini-things channel. Why did you choose this piece of media? How does it reflect your audience archetype?
 
 <div class="aspect-ratio aspect-ratio--square">
   <img class="aspect-ratio--content" src="../assets/2021-02-13-INTE-5340-GIPHY-1.gif" title="Glow Machine Learning GIF"></img>

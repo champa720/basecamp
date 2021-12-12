@@ -5,13 +5,10 @@ media:
     URL: https://youtu.be/GmfNid-5r7U
 ---
 
-## Assignment
+??? quote "Assignment"
+    Find a video that you find compelling, entertaining, fascina!ng, etc and recreate it. Use this as an opportunity to study various aspects of the media such as ligh!ng, script, produc!on techniques and/or overall message and apply those to your video.
 
-Find a video that you find compelling, entertaining, fascina!ng, etc and recreate it. Use this as an opportunity to study various aspects of the media such as ligh!ng, script, produc!on techniques and/or overall message and apply those to your video.
-
-Your submission should be 2 minutes or less in length
-
-***
+    Your submission should be 2 minutes or less in length
 
 <div class="aspect-ratio aspect-ratio--16-9">
   <iframe class="aspect-ratio--content" src="https://www.youtube-nocookie.com/embed/GmfNid-5r7U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -5,19 +5,16 @@ media:
     URL: https://preview.shorthand.com/8znL3nsC2FBwzwqL
 ---
 
-## Assignment
+??? quote "Assignment"
+    Use a tool, format or combination from above and create a media item.
 
-Use a tool, format or combination from above and create a media item.
+    Topic: Illustrate a day in the life in the year 2031 or 2051 of one of the following:
 
-Topic: Illustrate a day in the life in the year 2031 or 2051 of one of the following:
+    -   K-12 Student (pick the grade)
+    -   College Student
+    -   Adult learner.
 
--   K-12 Student (pick the grade)
--   College Student
--   Adult learner.
-
-There is no predefined time limit on this assignment. Each tool and format is different and the outcomes will vary. The time should be appropriate to that of the tool and the effectiveness of the final product.
-
-***
+    There is no predefined time limit on this assignment. Each tool and format is different and the outcomes will vary. The time should be appropriate to that of the tool and the effectiveness of the final product.
 
 <div class="aspect-ratio aspect-ratio--16-9">
   <iframe class="aspect-ratio--content" src="https://preview.shorthand.com/8znL3nsC2FBwzwqL" title="Google Site" frameborder="0"></iframe>
