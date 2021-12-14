@@ -135,5 +135,5 @@ As noted in the initial takeaway, I have only begun thinking about how readings 
 
 ## Additional Annotations
 
-- [Critical Leadership](../INTE-6720/2021-10-23-project-2)
-- [Social Justice: Diversity, Equity, and Inclusion (DE&I) — Trauma Informed Practice (TIP) — Social Emotional Learning (SEL) — Justice-Involved](../INTE-6720/2021-09-04-resource-scan)
+- [Critical Leadership](/basecamp/Digital-Pedagogy/INTE-6720/2021-10-23-project-2)
+- [Social Justice: Diversity, Equity, and Inclusion (DE&I) — Trauma Informed Practice (TIP) — Social Emotional Learning (SEL) — Justice-Involved](/basecamp/Digital-Pedagogy/INTE-6720/2021-09-04-resource-scan)
