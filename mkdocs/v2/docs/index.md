@@ -2,7 +2,7 @@
 background: home
 hide:
   - navigation
-  - toc
+  # - toc
 ---
 
 # Welcome
