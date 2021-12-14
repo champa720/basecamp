@@ -5,7 +5,10 @@ media:
     url: https://youtu.be/ueb9jQ_Z8X0
 ---
 
-# Instructional Design
+# Learning Experience Design
+
+>
+  _Instructional design is the process used to analyze, design, develop, and evaluate learning solutions. You will identify a gap in learning or performance and design a learning solution in the form of courses units, modules, and other instructional resources_ ([UC Denver](https://catalog.ucdenver.edu/cu-denver/graduate/schools-colleges-departments/school-education-human-development/learning-design-technology/)).
 
 <div class="aspect-ratio aspect-ratio--16-9">
   <iframe class="aspect-ratio--content" src="https://www.youtube-nocookie.com/embed/ueb9jQ_Z8X0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

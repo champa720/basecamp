@@ -2,7 +2,10 @@
 INTE: 5711
 ---
 
-# Creative Designs
+# Creative Designs for Instructional Materials
+
+>
+  _This course is a project-based exploration of design theories, principles, and best practices for communicating information to diverse learning audiences. Students apply unique design approaches and formats to the creation of materials for teaching, learning, and being of service to underrepresented communities_ ([UC Denver](https://catalog.ucdenver.edu/cu-denver/graduate/schools-colleges-departments/school-education-human-development/learning-design-technology/)).
 
 ## Logo v1
 

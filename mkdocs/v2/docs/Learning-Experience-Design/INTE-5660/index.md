@@ -2,7 +2,10 @@
 INTE: 5660
 ---
 
-# Developing Self-Pace eLearning
+# Developing Self-Paced Online Modules
+
+>
+  _Students use a variety of tools and strategies to develop self-paced eLearning courseware, such as tutorials. The course covers critical aspects of the instructional development process that support the creation of effective self-paced online learning experiences, materials and resources_ ([UC Denver](https://catalog.ucdenver.edu/cu-denver/graduate/schools-colleges-departments/school-education-human-development/learning-design-technology/)).
 
 ## Adobe inDesign Document
 
