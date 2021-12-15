@@ -1,16 +1,19 @@
 ---
 INTE: 5660
+date: 2020-09-21
+template: blog.html
+title: Achieving flow
 media:
   - type: video
     title: "What is Flow Theory"
     URL: https://youtu.be/iUsOCR1KKms
 ---
 
-[What is Flow Theory](https://youtu.be/iUsOCR1KKms)
-
 <div class="aspect-ratio aspect-ratio--16-9">
   <iframe class="aspect-ratio--content" src="https://www.youtube-nocookie.com/embed/iUsOCR1KKms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+[What is Flow Theory](https://youtu.be/iUsOCR1KKms)
 
 5-Factors of the flow state:
 

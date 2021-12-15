@@ -1,6 +1,8 @@
 ---
 INTE: 5300
-title: Media and the Most Vulnerable Population
+date: 2021-06-20
+template: blog.html
+title: Media and the most vulnerable population
 ---
 
 ## Reflection

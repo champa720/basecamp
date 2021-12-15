@@ -1,6 +1,8 @@
 ---
 INTE: 5680
-title: Check Out Instructional Media
+date: 2021-02-25
+template: blog.html
+title: Check out instructional media
 media:
   - type:
     url: https://youtu.be/aqWF_tuz5dU

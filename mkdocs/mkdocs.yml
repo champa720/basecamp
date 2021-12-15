@@ -36,11 +36,8 @@ theme:
 ################################################################################
 extra:
   homepage: https://j.sohvi.design
-extra_css:
-  - assets/stylesheets/extend.css
-
-################################################################################
-extra:
+  blog:
+    words_read_per_minute: 120 # efficient words per minute
   social:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/jason-n-17111717
@@ -50,6 +47,10 @@ extra:
       link: http://soundcloud.com/champa720
     - icon: fontawesome/brands/github
       link: http://github.com/champa720
+
+################################################################################
+extra_css:
+  - assets/stylesheets/extend.css
 
 ################################################################################
 markdown_extensions:

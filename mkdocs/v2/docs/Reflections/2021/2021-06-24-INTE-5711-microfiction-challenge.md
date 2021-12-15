@@ -1,6 +1,8 @@
 ---
 INTE: 5711
-title: Microfiction Challenge
+date: 2021-06-24
+template: blog.html
+title: Microfiction challenge
 ---
 
 ## 100-word microfiction (Original)

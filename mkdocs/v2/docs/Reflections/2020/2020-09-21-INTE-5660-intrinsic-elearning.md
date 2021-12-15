@@ -1,5 +1,8 @@
 ---
 INTE: 5660
+date: 2020-09-21
+template: blog.html
+title: Intrinsic learning
 media:
   - type: document
     title: "Motivation in Learning"
@@ -8,6 +11,11 @@ media:
 ---
 
 I have been in undergrad classes, professional learning, and work-place meetings, when I entered the room with high motivation - but the content presentation was so poor that my mind wandered to more interesting things in the room. This experience was described in [Allen’s article pages 123,124](https://docdrop.org/pdf/Allen.Chpt09-fGJf4.pdf/). Did I still want to learn the content, yes; did I take external measures to learn the content, yes. This is in agreement with Allen’s second premise, page 124, “If motivation to learn is high, learning will occur even if instructional materials are poor and minimal assistance is available.”
+
+<figure markdown>
+  ![Maslow's Motivational Model](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Maslow's_Hierarchy_of_Needs2.svg/1200px-Maslow's_Hierarchy_of_Needs2.svg.png)
+  <figcaption markdown>[Wikimedia] Maslow's Motivational Model</figcaption>
+</figure>
 
 Reflecting back on [Moslow’s Expanded Hierarchy of Needs](https://www.simplypsychology.org/maslow.html), I would conclude that I had my basic needs (coping needs) fulfilled and I was being personally driven by my higher order needs, specifically cognitive needs - a desire to understand. Or as [RSA Animates](https://youtu.be/u6XAPnuFjJc?t=833) concludes, I am driven by purpose; I have a need to challenge myself, for mastery, and to contribute to a larger project.
 

@@ -1,0 +1,29 @@
+<aside class="mdx-author">
+  <p>
+    <img alt="@champa720" src="https://avatars.githubusercontent.com/u/9203498">
+  </p>
+  <p>
+    <span>
+      <strong>J. S. Noska</strong> ·
+      <a class="magiclink magiclink-github magiclink-mention" href="https://github.com/champa720" title="GitHub User: champa720">@champa720</a>
+    </span>
+    <span>
+      <span class="twemoji">
+        {% include ".icons/octicons/calendar-24.svg" %}
+      </span>
+      {{ page.meta.date.strftime("%B %d, %Y") }} ·
+      <span class="twemoji">
+        {% include ".icons/octicons/clock-24.svg" %}
+      </span>
+
+      {{ page.content | wordcount // config.extra.blog.words_read_per_minute }} min read
+
+      {% if page.meta.INTE %} ·
+        <span class="twemoji">
+          {% include ".icons/octicons/tag-24.svg" %}
+        </span> INTE {{ page.meta.INTE }}
+      {% endif %}
+
+    </span>
+  </p>
+</aside>

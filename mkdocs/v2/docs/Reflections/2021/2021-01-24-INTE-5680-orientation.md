@@ -1,6 +1,8 @@
 ---
 INTE: 5680
-title: Explore and Post a YouTube Video
+date: 2021-01-24
+template: blog.html
+title: Explore and post a YouTube video
 media:
   type: video
   url: https://youtu.be/yk-1Zgi4meY

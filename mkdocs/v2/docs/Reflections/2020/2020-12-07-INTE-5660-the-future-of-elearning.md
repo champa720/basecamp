@@ -1,5 +1,8 @@
 ---
 INTE: 5660
+date: 2020-12-07
+template: blog.html
+title: The future of elearning
 media:
   - type: video
     URL: https://youtu.be/JMLsHI8aV0g

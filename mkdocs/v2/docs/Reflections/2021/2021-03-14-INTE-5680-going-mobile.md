@@ -1,6 +1,8 @@
 ---
 INTE: 5680
-title: Mobile Mayhem
+date: 2021-03-14
+template: blog.html
+title: Mobile mayhem
 ---
 
 Download and install a mobile application that looks interesting, spend some time using the app and write up a review. It must be 500 - 750 words in length and answer the following questions...

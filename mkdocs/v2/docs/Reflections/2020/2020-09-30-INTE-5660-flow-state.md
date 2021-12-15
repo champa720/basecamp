@@ -1,5 +1,8 @@
 ---
 INTE: 5660
+date: 2020-09-30
+template: blog.html
+title: Flow state
 ---
 
 I am a self-taught web developer. I had a personal desire to learn how to code, and all its complexities. It all began with research... and utilizing simple web tutorials where I received immediate feedback on my understanding.

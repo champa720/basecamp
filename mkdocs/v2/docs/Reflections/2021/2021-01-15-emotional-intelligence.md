@@ -1,4 +1,6 @@
 ---
+date: 2021-01-15
+template: blog.html
 title: Be kind; everyone is on their own journey
 tag: emotional intelligence
 ---

@@ -1,5 +1,8 @@
 ---
 INTE: 5100
+date: 2020-09-13
+template: blog.html
+title: Design framework deconstruction
 media:
   - type: video
     title: "The Models"
@@ -14,23 +17,22 @@ media:
 
 ADDIE, Backwards Design, and Design Thinking are three frameworks I have employed during the initial phases of our solution design project, CAEPA-BLE: Student Ambassadors. In each of the three frameworks empathy exists at the beginning of the planning process, through Analysis of the audience. Whether it be learning gaps, prior knowledge, or time and delivery of course design, the learners are thought about first.
 
-[The Models](https://youtu.be/RwBUsAJLiqY)
-
 <div class="aspect-ratio aspect-ratio--16-9">
   <iframe class="aspect-ratio--content" src="https://www.youtube-nocookie.com/embed/RwBUsAJLiqY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-[Dr. Robert M. Gagne](https://youtu.be/5q5oDEoO1qo)
+[The Models](https://youtu.be/RwBUsAJLiqY) (YouTube)
 
 <div class="aspect-ratio aspect-ratio--16-9">
   <iframe class="aspect-ratio--content" src="https://www.youtube-nocookie.com/embed/5q5oDEoO1qo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[What is Design Thinking](https://youtu.be/0V5BwTrQOCs)
+[Dr. Robert M. Gagne](https://youtu.be/5q5oDEoO1qo) (YouTube)
 
 <div class="aspect-ratio aspect-ratio--16-9">
   <iframe class="aspect-ratio--content" src="https://www.youtube-nocookie.com/embed/0V5BwTrQOCs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+[What is Design Thinking](https://youtu.be/0V5BwTrQOCs) (YouTube)
 
 ## ADDIE + Backwards design
 

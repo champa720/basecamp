@@ -1,5 +1,8 @@
 ---
 INTE: 5660
+date: 2020-12-13
+template: blog.html
+title: The course question
 ---
 
 Is electronic Self-Paced eLearning effective learning? I would say it is possible. Just placing content online, would most likely not be effective. This would go for any of the formats we initially discussed: MOOCs, Skill Classes, Click n Quiz, Simulations (Games).

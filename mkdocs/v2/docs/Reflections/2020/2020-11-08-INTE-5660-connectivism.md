@@ -1,5 +1,8 @@
 ---
 INTE: 5660
+date: 2020-11-08
+template: blog.html
+title: Connectivism
 ---
 
 Like others, my closest professional learning community were those on my team, colleagues. We would hold in-house professional learning weekly, during lunch. These could be as simple as a book group, others reporting out about things they have discovered elsewhere, or just conversations about what we are up to, the good, bad, and funny.

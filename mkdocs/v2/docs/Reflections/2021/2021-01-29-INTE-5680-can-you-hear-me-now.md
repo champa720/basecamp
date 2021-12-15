@@ -1,6 +1,8 @@
 ---
 INTE: 5680
-title: Check Out Some Podcasts
+date: 2021-01-29
+template: blog.html
+title: Check out some podcasts
 media:
   - type: website
     url: https://www.wnycstudios.org/podcasts/radiolab

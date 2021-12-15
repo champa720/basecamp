@@ -1,4 +1,6 @@
 ---
+date: 2021-03-15
+template: blog.html
 title: Small changes lead to big improvements
 tag: accessibility
 ---

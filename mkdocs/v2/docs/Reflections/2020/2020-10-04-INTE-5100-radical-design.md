@@ -1,5 +1,8 @@
 ---
 INTE: 5100
+date: 2020-10-04
+template: blog.html
+title: Radical design
 media:
   - type: video
     title: "The Unexpected Benefits of Celebrating Failures"

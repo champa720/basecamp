@@ -1,5 +1,8 @@
 ---
 INTE: 5660
+date: 2020-09-15
+template: blog.html
+title: Four types of elearning
 ---
 
 I am very familiar with [Khan Academy](https://www.khanacademy.org/). and have been utilizing it as a learning tool since its early inception back 2008. It was right there with [Cool Math Games](https://www.coolmathgames.com/). in middle school computer labs.
@@ -10,7 +13,7 @@ Additionally, even though not on the list, I played [Legends of Learning](https:
 
 Each of the above, eLearning types, all require learner-agency and self-efficacy. The learner must be motivated to login to the platforms regularly, and persevere through the challenges. These are not the type of platforms where you visit once and gain all the information about any topic.
 
-In opposition, and as noted by @Brad, little learner-agency or self-efficacy is required for a "Click and Quiz" , especially for compliance training. Wouldn't learner-agency be completely removed ([as defined by compliance](https://www.google.com/search?q=define+compliance)) leaving only self-efficacy - or the motivation?
+In opposition, and as noted by @Brad, little learner-agency or self-efficacy is required for a "Click and Quiz", especially for compliance training. Wouldn't learner-agency be completely removed ([as defined by compliance](https://www.google.com/search?q=define+compliance)) leaving only self-efficacy - or the motivation?
 
 From the list, I also clicked on [The Game of College](https://tuitiontracker.org/temp/game-of-college/). and it instantly reminded me of playing [Oregon Trail]\([https://en.wikipedia.org/wiki/The_Oregon_Trail_(series)](https://en.wikipedia.org/wiki/The_Oregon_Trail_(series)). back on the old Macintosh back in elementary school. These are almost subliminal learning, through choice. The only way to keep the learner engaged would be through great story telling and as @Nick said this story lacks wonder.
 

@@ -1,5 +1,8 @@
 ---
 INTE: 5660
+date: 2020-10-11
+template: blog.html
+title: Allen, Michael
 media:
   - type: document
     title: "CCAF and Interactive Instruction"
