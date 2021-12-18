@@ -1,5 +1,12 @@
 ---
 INTE: 5660
+media:
+  - type: Adobe inDesign Document
+    title: Information Technology
+    url: https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:0fb072c4-e0f5-4c79-9674-707ca5abb01d
+  - type: Articulate Rise
+    title: Information Technology (training)
+    url: https://360.articulate.com/review/content/fb26fcab-0d74-4bd8-b9d4-bcab1cb3019d/review
 ---
 
 # Developing Self-Paced Online Modules
