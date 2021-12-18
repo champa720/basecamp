@@ -1,8 +1,8 @@
 ---
 INTE: 5100
+date: 2020-12-06
+title: Design Document
 ---
-
-# Design Document
 
 CAEPA - Ambassador Leaders
 
@@ -48,7 +48,7 @@ CAEPA has participated in the Coalition on Adult Basic Education Student Ambassa
 
 ### Professional Learning
 
-The Colorado State Office of Adult Education Initiatives (AEI) has provided little professional development to the field. The Office of Career, Technical, and Adult Education (OCTAE) who administers the Federal funds has issued the Department of Education a Corrective Action Plan ([Appendix B](#appendix-b)). In the plan, they made several recommendations for AEI, noting their lack of leadership and lack of professional development for the field.
+The Colorado State Office of Adult Education Initiatives (AEI) has provided little professional development to the field. The Office of Career, Technical, and Adult Education (OCTAE) who administers the Federal funds has issued the Department of Education a Corrective Action Plan ([Appendix B](../2020-12-06-Document-Appendices#appendix-b)). In the plan, they made several recommendations for AEI, noting their lack of leadership and lack of professional development for the field.
 
 In recent years, CAEPA has fulfilled the majority of the states required professional development, AEI noted this in their required FY Narrative Reports to OCTAE (National Reporting System, n.d.). Since the pandemic, AEI has provided links to distance learning platforms, however, this came around June/July of 2020 and was in conjunction with the office of K-12 (Colorado Department of Education, n.d.). They provided no guidance, limited training, and provided no practices to support educators during this time of transition.
 
@@ -56,7 +56,7 @@ As an example of poor guidance, AEI suggested proctoring the federally mandated 
 
 To support Colorado’s Adult Education professional development needs, CAEPA hosts an annual PD Conference every October. Over the years a decline in attendance has been tracked (Table 1).
 
-Table 1: Conferences ([Appendix A](#appendix-a))
+Table 1: Conferences ([Appendix A](../2020-12-06-Document-Appendices#appendix-a))
 
 |Year        |2016        |2017 (2018) |2018        |2019        |
 |:-----------|:-----------|:-----------|:-----------|:-----------|
@@ -68,11 +68,11 @@ The learners we are targeting for this project are those who serve as adult educ
 
 To assess problems and gaps across our wide spectrum of learners, we conducted several needs assessments, including, two-personal virtual interviews and a broad survey distributed to the adult education field at large. We also meet with stakeholders virtually, including, CAEPA Board of Directors and one of their affiliates, Literacy Coalition of Colorado — representatives present, from the Literacy Coalition, included District Libraries and volunteer teacher coordinator.
 
-After conducting the multiple needs assessments, we analyzed each data group and the data as a whole. During the analysis, we discovered the entire field of Adult Education had similar problems and gaps; however, there was no singular emphasis of common need. We were able to organize these emerging patterns into six broad groups of problems and gaps ([Appendix C](#appendix-c)). When identifying possible solutions, we were able to filter these groups down to three interconnected needs to address ([Proposed Learning Solution](#proposed-learning-solution)).
+After conducting the multiple needs assessments, we analyzed each data group and the data as a whole. During the analysis, we discovered the entire field of Adult Education had similar problems and gaps; however, there was no singular emphasis of common need. We were able to organize these emerging patterns into six broad groups of problems and gaps ([Appendix C](../2020-12-06-Document-Appendices#appendix-c)). When identifying possible solutions, we were able to filter these groups down to three interconnected needs to address ([Proposed Learning Solution](#proposed-learning-solution)).
 
 ### Virtual Interviews
 
-We utilized methods found in Kouprie, M., & Visser, F. S. (2009). A framework for empathy in design, as a base for developing Learner Personas ([Appendix D](appendix-d), [Appendix E](#appendix-e)). These were created to aid in better understanding the needs of our learners. Both learning personas represent distinct stakeholders in the Ambassador Leaders program. These learner personas allowed us as instructional designers to discover our learners, immerse ourselves in their reality, connect to their reality, and detach to use our new knowledge for instruction development.
+We utilized methods found in Kouprie, M., & Visser, F. S. (2009). A framework for empathy in design, as a base for developing Learner Personas ([Appendix D](appendix-d), [Appendix E](../2020-12-06-Document-Appendices#appendix-e)). These were created to aid in better understanding the needs of our learners. Both learning personas represent distinct stakeholders in the Ambassador Leaders program. These learner personas allowed us as instructional designers to discover our learners, immerse ourselves in their reality, connect to their reality, and detach to use our new knowledge for instruction development.
 
 ### Summary of Learner Persona 1
 
@@ -92,7 +92,7 @@ When designing the solution, we considered how we could support both of Nadine�
 
 ### Adult Educator Survey
 
-We also surveyed the field of adult educators in Colorado connected to CAEPA ([Appendix F](#appendix-f)). We inquired about the field’s workplace, familiarity with adult education associations, as well as their familiarity with Student Ambassador, and interest in participating. We also asked the field of their highest training needs personally and within their program. The following are major takeaways from the Adult Education Survey:
+We also surveyed the field of adult educators in Colorado connected to CAEPA ([Appendix F](../2020-12-06-Document-Appendices#appendix-f)). We inquired about the field’s workplace, familiarity with adult education associations, as well as their familiarity with Student Ambassador, and interest in participating. We also asked the field of their highest training needs personally and within their program. The following are major takeaways from the Adult Education Survey:
 
 #### Background
 
@@ -171,7 +171,7 @@ Developing learner personas illuminated the complexity and diversity of our lear
 
 During this iterative process, we reflected on our learning goal and our identified problems and learning gaps and proceeded to create learning objectives. During the same time, we also brought in a human element and started to structure a learning path through our proposed learning solution.
 
-Considering the wide array of learning gaps and problems uncovered during our analysis, we attempted to design a solution that would be adaptable while meeting the organization’s initial needs. It was here that we expanded the ADDIE design phase to include Design Thinking. While using the Design Thinking model, we iterated between the Define and Ideate phase allowing us to create a fuller more robust solution, than what might have been possible. Mixing this with a Human-Centered Design mindset, we spent time considering the impacts of the solution for both the learner and the organization ([Appendix G](#appendix-g)).
+Considering the wide array of learning gaps and problems uncovered during our analysis, we attempted to design a solution that would be adaptable while meeting the organization’s initial needs. It was here that we expanded the ADDIE design phase to include Design Thinking. While using the Design Thinking model, we iterated between the Define and Ideate phase allowing us to create a fuller more robust solution, than what might have been possible. Mixing this with a Human-Centered Design mindset, we spent time considering the impacts of the solution for both the learner and the organization ([Appendix G](../2020-12-06-Document-Appendices#appendix-g)).
 
 Based on the problems and learning gaps we identified in the Analysis phase, learning objectives were revised during the design phase to better align with the desired outcomes for the Ambassador Leaders program. During this revision, appropriate objective-aligned assessments were designed.
 
@@ -190,7 +190,7 @@ Finally, the long-term successes of learners implementing their newly gained kno
 
 Within the development phase, we focused on a microlearning experience. We practiced the use of storyboarding and thought about the human element of how learners would progress through professional learning.
 
-Development of the program microlearning experiences will be driven by the specific learning objectives created during the Design phase and tied initially to the professional learning identified in the Adult Educator Survey. We storyboarded a course exemplifying a leveled course structure building from a base idea to the program goal of implementing high-impact practices into instruction ([Appendix H](#appendix-h)). This will be a format for course development.
+Development of the program microlearning experiences will be driven by the specific learning objectives created during the Design phase and tied initially to the professional learning identified in the Adult Educator Survey. We storyboarded a course exemplifying a leveled course structure building from a base idea to the program goal of implementing high-impact practices into instruction ([Appendix H](../2020-12-06-Document-Appendices#appendix-h)). This will be a format for course development.
 
 As we have provided a high-level objective for professional learning, additional learning objectives will be embedded in the microlearning courses to inform the learning within the courses. The microlearning courses and community forums are the heart of the Ambassador Leaders program and are the intended professional learning opportunities and professional community that will be continuously developed.
 
@@ -220,7 +220,7 @@ While considering the organization’s initial needs and mission and after condu
 
 The solution will be a comprehensive program leading the learners through four-phases of learning, each phase contains one- or two-objectives. Professional learning and community are the heart of the solution and are designed to be highly flexible and expandable over time to meet the changing needs of adult education (Figure 2: Ambassador Leaders).
 
-To best explain the learning solution, we will summarize the journey detailing the organization’s involvement and the learners’ journey ([Appendix G](#appendix-g)).
+To best explain the learning solution, we will summarize the journey detailing the organization’s involvement and the learners’ journey ([Appendix G](../2020-12-06-Document-Appendices#appendix-g)).
 
 <figure markdown>
   ![Design Thinking](./assets/2020-12-06-INTE-5100-Design-Thinking-03.png)
@@ -229,7 +229,7 @@ To best explain the learning solution, we will summarize the journey detailing t
 
 ### Phase 1: Prepare
 
-During the first phase, the organization will be defining the program and explaining the opportunities contained within. This will be a marketing campaign aimed at recruiting participants and explaining the offerings that will be available during the next phase. Emphasis will be placed on (re) branding Ambassador Leaders — a program designed to support adult education through advocacy, professional learning, and a supportive network ([Appendix I](#appendix-i)). This will be an ongoing campaign, with new announcements released as new content becomes available, always reaffirming the goal of the program.
+During the first phase, the organization will be defining the program and explaining the opportunities contained within. This will be a marketing campaign aimed at recruiting participants and explaining the offerings that will be available during the next phase. Emphasis will be placed on (re) branding Ambassador Leaders — a program designed to support adult education through advocacy, professional learning, and a supportive network ([Appendix I](../2020-12-06-Document-Appendices#appendix-i)). This will be an ongoing campaign, with new announcements released as new content becomes available, always reaffirming the goal of the program.
 
 From the learners’ perspective, they will discover the vision of the program and will connect to the familiar aspect of professional learning the organization is known to provide, generating enthusiasm. Additionally, the learner will also build an understanding of the inherent advocacy aspect. The learner will be able to distinguish how Ambassador Leaders is in juxtaposition to the larger national Student Ambassador model. The dropping of the adjective “student” is intentional. By labeling all participants as “Ambassadors” the program will empower adult educators and will include programs and by proxy, student voices too. The broader definition of Ambassador Leaders will create a larger more sustainable community of advocates representing the diversity in Colorado Adult Education.
 
@@ -239,7 +239,7 @@ The conclusion of this phase will be when the learners register for the program.
 
 This phase is the heart of the program and can be imagined as a series of microlearning courses, offering synchronous and asynchronous learning through a learning management system. Initially, the organization will be the primary content creators, building the library of professional learning available. Later, Industry experts including publishers and speakers will be sought out as content creators, as well as, contributors from the field and external stakeholders. The content will have a consistent build as there will be guidance provided as to the structure of each course.
 
-Learning opportunities in this phase will have a subset of learning objectives to support the specific topic of instruction. Through the Adult Educator survey ([Appendix F](#appendix-f)), immediate training needs have been identified — surrounding online instructional strategies — and will be prioritized in the Beta Release. All topics of instruction will incorporate the use of a high impact practice ([Appendix H](#appendix-h)) to address the program goal. Basing the goal of the project on a flexible practice will string a common thread of learning throughout every offering in the Ambassador Leaders program while meeting the needs of the adult education field.
+Learning opportunities in this phase will have a subset of learning objectives to support the specific topic of instruction. Through the Adult Educator survey ([Appendix F](../2020-12-06-Document-Appendices#appendix-f)), immediate training needs have been identified — surrounding online instructional strategies — and will be prioritized in the Beta Release. All topics of instruction will incorporate the use of a high impact practice ([Appendix H](../2020-12-06-Document-Appendices#appendix-h)) to address the program goal. Basing the goal of the project on a flexible practice will string a common thread of learning throughout every offering in the Ambassador Leaders program while meeting the needs of the adult education field.
 
 The learners will have ongoing access to the various contents within the platform. These skills and knowledge will be built around unique learning objectives and assessments for the microlearning course and will be accessible in the learning management system. Over time, each course will offer different levels of understanding similar to a course structure, 101, 201, 301, etc… By offering levels of content, or tiers, we are connecting to the learners’ intrinsic motivation by offering choice and meeting the learner where their skill level is at and honoring the diversity of the adult educators we serve – Adult Learning Theory.
 
@@ -259,15 +259,15 @@ By providing learners a safe place to exchange ideas and asking for reflections 
 
 To wrap up the program, we wanted to further connect the learners and outreach to new potential learners and content creators. This phase is about transparency, communication, and supporting the Ambassador Leaders program.
 
-As part of the design, we wanted to recognize the work of Adult Educators. This could be considered a capstone project for the learners, representing a high impact practice. The organization will follow up with how the learner is applying the ideas gained through participating in Ambassador Leaders. This is in response to a critique we heard during our interview with Learner Persona 1 ([Appendix D](#appendix-d)). They expressed a desire to know how other programs are implementing ambassador ideas, their struggles, and their successes. During this phase, the organization will conduct interviews – student, educator, or program – and release it to the public, thus restarting the program phases.
+As part of the design, we wanted to recognize the work of Adult Educators. This could be considered a capstone project for the learners, representing a high impact practice. The organization will follow up with how the learner is applying the ideas gained through participating in Ambassador Leaders. This is in response to a critique we heard during our interview with Learner Persona 1 ([Appendix D](../2020-12-06-Document-Appendices#appendix-d)). They expressed a desire to know how other programs are implementing ambassador ideas, their struggles, and their successes. During this phase, the organization will conduct interviews – student, educator, or program – and release it to the public, thus restarting the program phases.
 
 ## Instructional Objectives
 
-Ambassador Leaders’ instructional objectives are at a high-level, measuring the effectiveness of each phase of the learners’ journey ([Appendix G](#appendix-g)). We encompassed the learning solution using the full range of Bloom’s taxonomy, following the hierarchical order forming the pyramid through each phase of the program. As the learner begins their journey, they will form the base of the pyramid and progressively move up the pyramid through the completion of each phase. Bloom’s Taxonomy
+Ambassador Leaders’ instructional objectives are at a high-level, measuring the effectiveness of each phase of the learners’ journey ([Appendix G](../2020-12-06-Document-Appendices#appendix-g)). We encompassed the learning solution using the full range of Bloom’s taxonomy, following the hierarchical order forming the pyramid through each phase of the program. As the learner begins their journey, they will form the base of the pyramid and progressively move up the pyramid through the completion of each phase. Bloom’s Taxonomy
 
 While designing each phase, we considered assessments and the instructional strategy to be used. As noted by Khalil, M. K., & Elkhider, I. A. (2016) there are three primary learning theories, behaviorism, cognitivism, and constructionism. We have identified the learning theory applied — informing instructional strategies to be applied — and the method to connect instruction and assessment, through each of the phases.
 
-As we have proposed a robust learning solution, additional learning objectives will be provided during Phase 2 & 3. These objectives will be tied to the individual microlearning lessons within the online courses and will be developed as courses are created. We have developed a course to demonstrate this ([Appendix J](#appendix-j)).
+As we have proposed a robust learning solution, additional learning objectives will be provided during Phase 2 & 3. These objectives will be tied to the individual microlearning lessons within the online courses and will be developed as courses are created. We have developed a course to demonstrate this ([Appendix J](../2020-12-06-Document-Appendices#appendix-j)).
 
 ### Solution Design Goal
 
@@ -326,7 +326,7 @@ This objective will be met through the learners’ long-term application of thei
 
 ## Solution Storyboard
 
-The solution storyboard represents a learner’s experience through a microlearning course within the Ambassador Leaders program ([Appendix J](#appendix-j)). In the solution storyboard, we have provided an overview of the heart of the program and created a course containing four microlearning modules. Two of the four are detailed lessons, while the remaining two are present to demonstrate the progression of learning.
+The solution storyboard represents a learner’s experience through a microlearning course within the Ambassador Leaders program ([Appendix J](../2020-12-06-Document-Appendices#appendix-j)). In the solution storyboard, we have provided an overview of the heart of the program and created a course containing four microlearning modules. Two of the four are detailed lessons, while the remaining two are present to demonstrate the progression of learning.
 
 ## Evaluation Plan
 
@@ -537,194 +537,3 @@ SB20-009. (2020). Expand Adult Education Grant Program. Colorado General Assembl
 SHIFTeLearning. (2019). Learner Experience Mapping: Building Personalized “Learner-centric” Experiences. SHIFTeLearning. <https://www.shiftelearning.com/blog/learner-experience-mapping-elearning>
 
 Wilson, B. (2014, May 7). Colorado passes the Adult Education Act. National Skills Coalition. <https://www.nationalskillscoalition.org/news/blog/colorado-passes-the-adult-education-act>
-
----
-
-## Appendix A
-
-**Conferences**
-
-CAEPA postponed Scheduling this year’s annual conference due to several reasons:
-
-1. Program cuts - AEI defunded 1/2 of all adult ed programs on August 31, 2020.
-    - AEFLA Funding: AEI initially released a timeline for the completion of the new AEFLA grant cycle and has not kept to it. The timeline has since been removed from the AEI Prospective Grantees page.
-    - The current grant competition is still underway as of October 2020.
-    - No determination of grantees has been announced.
-    - No funds have been released.
-2. AELA Funding: AELA Funding was uncertain as a revised AELA Bill was introduced into the State Legislature.
-    - AEI announced a no-cost continuation of AELA Funding in July 2020.
-    - This was after guidance for the programs to spend 100% of AELA Funds by July 31, 2020.
-3. CAEPA Rendezvous Attendance: Annual conference attendance has been steadily declining for the last 3 years, potentially connected to a lack of State Leadership.
-4. COVID-19 uncertainties: Planning for the annual conference would have started in November 2019 - but the above reasons pushed it to January 2020 - and then pandemic added new complexities to the decision making.
-
-## Appendix B
-
-**Corrective Action Plan**
-
-[CO Nov 2019 Monitoring Report 05-12-20](https://drive.google.com/file/d/1yDCCHyHLB0y8HNXvVC4Uf6TNrMjV-PGk/view?usp=sharing) (Google PDF)
-
-
-## Appendix C
-
-**Problems & Learning Gaps**
-
-Colorado adult educators have a mixed outlook, both positive and negative, of the national Student Ambassador model and are not aware of CAEPA’s vision for the new program.
-
-1. Colorado adult educators are curious about the effectiveness of the national adult education Student Ambassador model in other states and if it impacts students’ engagement with programs.
-2. Colorado adult educators are not equipped to integrate standards-based content instruction and contextualized learning strategies.
-3. Colorado adult education programs and staff are not proficient with online or hybrid instruction and assessment strategies or techniques.
-4. Colorado adult education programs and staff are unfamiliar with online or hybrid engagement techniques and are concerned about student performance in these learning models.
-5. Colorado adult education programs are unstable due to lack of funding and resources; some also suffer from unsupportive work environments.
-
-## Appendix D
-
-**Learner Persona 1**
-
-Program Segment:  
-Community College System
-
-### Discovery
-
-Kelly holds a Master’s degree in Adult Education and Training. She has been working in adult education for 13 years. Those 13 years of experience consist of work in contexts such as government, non-profit, and higher education settings. All of these contexts were in an administration role, not a teaching role. Following a move from Arizona to Colorado Kelly is currently working as the director of Grant Development and Compliance at the Community College of Denver. Her professional goal is to ensure adult education remains funded in Colorado, especially for at-risk and diverse populations. She is motivated by the belief that individuals deserve the opportunity to flourish into their best self and for all people to have equitable education opportunities. Kelly is currently working from home due to the Covid-19 Pandemic making personal connections more challenging.
-
-Kelly has a general understanding of CAEPA as an organization that provides support to Adult Education in Colorado. She has a more comprehensive familiarity of the National Student Ambassador Programs from her previous work context in Arizona. Based on this previous experience, she is a supporter of Student Ambassador Programs because they help promote awareness of Adult Education within the community, provide powerful personal stories, and give students the opportunity to develop leadership and public speaking skills, especially when meeting with officials or other people in power. She also loves that Student Ambassador Programs give a personal face to the advocacy work that must be done frequently in adult education. Kelly is motivated to be proactive for the betterment of Colorado’s adult education programs.
-
-### Immersion
-
-Kelly is someone who would organize, create, and facilitate a Student Ambassador group in her context at the Community College of Denver. In her previous role in Arizona, she received Student Ambassador training. This training included preparing Student Ambassador facilitators to organize student advocacy efforts for additional funding through the state legislature for adult education and to put students’ personal stories behind the need to fund this type of education. At a program level, she saw the advocacy efforts with the Student Ambassador Program result in added funding for adult education allowing for program expansion. With her experience working with Student Ambassadors, she saw participating students gain confidence, make connections, stay engaged in their program, and gain college and career readiness skills. She loves the Student Ambassador Program and is excited for them to become more prevalent in Colorado.
-
-### Connection
-
-Kelly is currently not an active facilitator of a Student Ambassador Program due to the lack of their prevalence in Colorado. Although Kelly is passionate about the advocacy results of the Student Ambassador Program, she does not have the knowledge required to initiate a program. She does not know how to develop a curriculum that fosters the students’ advocacy skills. To close this gap, Kelly needs a designed curriculum to implement or training on high-impact practices that will empower students. She also does not have the knowledge of other adult educators in Colorado desiring to implement a Student Ambassador program. Kelly needs an in-person or on-line forum to connect and collaborate with other facilitators as a professional learning community.
-
-### Detachment
-
-When considering Kelly’s desire to have increased advocacy for adult education, a need for a Colorado advocacy program. A pathway to this is explicit training on how to start and how to facilitate a Student Ambassador Program. Due to the nature of CAEPA providing aid for sites all around Colorado, this training will be best achieved through an online, module-based training. Module learning would include what the Student Ambassador Program is and its outcomes (supported by research), an example of an active and effective Student Ambassador Program, and a “starting-up” protocol. Open communication between the program facilitators and the CAEPA Student Ambassador Leaders will be required. Advantages of this solution include the remote availability of training, the ability to have actionable steps presented, and combination of personal-connection and technology-based training. A main disadvantage of this solution is the lack of student-student interaction available within the learning experience. A consequence of this solution could be that some resulting Student Ambassador Programs may be started, but not upkept and maintained.
-
-## Appendix E
-
-**Learner Persona 2**
-
-Program Segment:  
-Corrections
-
-### Discovery
-
-Nadine was working as a case manager and job coach for formerly incarcerated men and women while earning their bachelors and master’s degrees. They also obtained a Teacher License for Elementary Education (Grades: K-6); but soon after they felt a calling to return back to Adult Education. Nadine stated, “After all, there is a generational problem; if the parents aren’t doing well, the children aren’t doing well.”
-
-Nadine taught Adult Education classes at two non-profit agencies before transitioning into a corrections setting to teach Adult Education classes. They have experience teaching Adult Education classes for the Colorado Department of Corrections (CDOC) and a College Preparatory curriculum for the Denver Women’s Correctional Facility (DWCF).
-
-When Nadine was asked “what is unique about your specific reality”, they responded by stating, “My students are incarcerated…” Nadine continued to explain why their learners are incarcerated and the benefits that their instruction provides. Nadine identified a loss of conventional and effective learning opportunities in the learners’ past as a common cause leading to the learners incarceration. It is their belief that through Adult Education classes their students not only obtain basic educational skills but also acquire self-esteem and confidence when they experience success in the classroom. Nadine see’s these outcomes leading incarcerated learners to develop workplace skills and into career training which ultimately leads to meaningful employment and a decrease in the probability of returning to prison.
-
-### Immersion
-
-Nadine has many roles within their organizational setting, and as such values their personal time. They expressed sheer joy at their new work schedules which now include 4 10-hour days. Nadine maintains a network of community agencies that provide services to help aid people reentering society, in addition to their direct instruction responsibilities. Currently, their classrooms are transitioning back to small in-person sessions on an alternating block schedule.
-
-To fully immerse into the CDOC, Nadine points to the organization’s mission, which in part states, “holding offenders accountable and engaging them in opportunities to make positive behavioral changes and become law-abiding, productive citizens.” Again, Nadine expresses joy in the fact that the CDOC is moving from punitive practices to teaching, counseling, and guiding practices. Conversely, Nadine feels that the CDOC has an ingrained militaristic nature and a chain of command which adds frustration when new ideas are not heard or are outright ignored.
-
-### Connection
-
-Nadine is a dedicated professional with a working knowledge of classroom technology that does not depend on the internet, which inmates are not allowed to access. This is a point of frustration which prevents Nadine from building new skills related to technology and inhibits their learner’s from practicing and developing essential workplace skills. But like most educators, Nadine can be very innovative and makes the most of the equipment and supplies they do have.
-
-Nadine has a personal desire to learn to use modern web applications and to improve their instructional abilities through improved lesson design. As the CDOC is placing more emphasis on standards based instruction, as well as career and technical education, these changes also become a learning opportunity for Nadine. They expressed this transition has added pressure and they receive little support internally.
-
-Training needs extend beyond growth in skills and knowledge for Nadine and move into environmental problems. They encounter daily frustrations, internal conflicts, and work-place politics. All these can be daunting, demoralizing, and can affect their disposition in the classroom. It would be helpful to have training in areas of coping and self-care. Having worked in similar stressful environments, internal team building may also help improve this working environment.
-
-### Detachment
-
-Moving forward with Student Ambassadors, Nadine would face an uphill battle. A new program not conforming to practice implemented by the chain of command may be a challenge. However, Nadine has a desire to learn new instructional strategies, is dedicated to serving their learners, and CDOC goals are shifting to better prepare student learners for reentry. This combination of alignments to Student Ambassadors may allow aspects of it to develop. We would need to ensure the learning objectives, included in our design, are clearly aligned to and support College and Career Readiness Standards in order to be successful in the CDOC.
-
-Additionally, we may consider incorporating Career Conversations, published by the American School Counselor Association, into the list of topics supported through the Student Ambassador program. This may help CDOC buy into the program through more explicit development of workplace related skills, in turn supporting Nadine.
-
-Nadine may best benefit from live training, allowing them to network in person with like minds, and may bring a breath of fresh air in comparison to their organizational environment. The downside to a live training is it may reduce access for other programs to participate, as this is a state-wide program. However, Nadine also has a desire to improve their personal digital literacy skills which could be supported through an online platform. Through virtual training, our design should contain an element of synchronous learning in order to best support Nadine. In designing for Nadine, I would see either learning solution benefiting them.
-
-When stepping back and considering learning objectives for the Student Ambassadors program, the learning solution needs to include instructional strategies and practices in order to support Nadine. We would also need to ensure those objectives help meet the overall Student Ambassador program goals. This would allow the Student Ambassador program to be flexible enough to support both programs and student learners, having the maximum impact and advocacy outreach.
-
-## Appendix F
-
-**Adult Educator Survey**
-
-Source: [Adult Educator Survey](https://forms.gle/vBCNCxhSHAGVtds58) (Google Form)
-
-Campaign benchmarking, of 747 recipients
-
-|                  |This campaign	    |Campaign average  |Industry average  |
-|:-----------------|:-----------------|:-----------------|:-----------------|
-|Open Rate	       |158 (22.7%)       |29.0%	           |37.7%             |
-|Click rate	       |37 (5.3%)	        |7.2%	             |6.2%              |
-
-52 messages bounced  
-20 responded
-
-## Appendix G
-
-**Journey Map**
-
-Program Segment:  
-Corrections
-
-### Instructional Experience:
-
-Nadine holds an Elementary education teaching license (K-6), and currently is employed with the Colorado Department of Corrections where she has spent 5 years instructing adult education classes. Nadine’s prior experience includes 3 years of teaching adult education for non-profit organizations and has 2 years of experience in elementary education.
-
-### Goals/Motivation:
-
-Nadine has a personal desire to learn to use modern web applications and to improve their instructional abilities through improved lesson design. As the CDOC is placing more emphasis on standards based instruction, as well as career and technical education, these changes also become a learning opportunity for Nadine. She expressed this transition has added pressure and receives little support internally.
-
-[Full Journy Map](https://drive.google.com/file/d/1yDCCHyHLB0y8HNXvVC4Uf6TNrMjV-PGk/view?usp=sharing) (Google PDF)
-
-## Appendix H
-
-**High-Impact Practices**
-
-1. First-Year Seminars and Experiences
-2. Common Intellectual Experiences
-3. Learning Communities
-4. Writing-Intensive Courses
-5. Collaborative Assignments and Projects
-6. Undergraduate Research
-7. Diversity/Global Learning
-8. ePortfolios
-9. Service Learning, Community-Based Learning
-10. Internships
-11. Capstone Courses and Projects
-
-Source: (Association of American Colleges & Universities, 2008)
-
-## Appendix I
-
-**Potential Marketing**
-
-Ambassador Leaders  
-Lead in the Classroom
-
-As an adult educator, your experience in Ambassador Leaders will support your professional growth and provide a professional community to collaborate and find support in. With access to adult education vendors, microlearning courses, and a supportive professional community, educators will be inspired to advocate and transform the landscape of Colorado’s Adult Education — while building new strategies to support adult learners’ achievement.
-
-### Supporting Student Ambassadors
-
-- Nominate: Recognize your student leaders...
-- Develop: Work with student leaders…
-- Connect: Advocate at the National, State, and Local level...
-
-### Supporting Adult Education
-
-- Ambassadors: Let your voices be heard!
-- Professional learning: Opportunities to build your knowledge and skills...
-- Networking and community: Supporting professional relationships...
-
-### Resources:
-
-- Ambassador Leaders, For Teachers
-- COABE, Adult Educator Ambassadors
-- COABE, Student Ambassadors
-- COABE, Ambassador Training
-- Teacher powered, Teacher Ambassadors
-- U.S. Department of Education, School Ambassadors
-
-## Appendix J
-
-**Storyboard**
-
-<div class="aspect-ratio aspect-ratio--16-9">
-  <iframe class="aspect-ratio--content" src="https://docs.google.com/presentation/d/e/2PACX-1vSFb1OCs6LW2ApnEKnRCZAEm7xNTUEnUdijJcxqZVZm_QArLJUgVgbnBx7sW96iBIYpbBc1Rov52PKe/embed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</div>

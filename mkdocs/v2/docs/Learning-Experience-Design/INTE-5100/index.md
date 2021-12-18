@@ -2,7 +2,11 @@
 INTE: 5100
 media:
   - type: video
+    title: Design Summary
     url: https://youtu.be/ueb9jQ_Z8X0
+  - type: Adobe inDesign Document
+    title: Ambassador Leaders
+    url: https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:43fee04c-b1c1-45c8-b204-506f8916a71b
 ---
 
 # Learning Experience Design
