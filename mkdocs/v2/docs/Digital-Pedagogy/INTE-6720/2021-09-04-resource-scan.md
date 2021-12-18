@@ -1,5 +1,6 @@
 ---
 INTE: 6720
+date: 2021-09-04
 ---
 
 # Social Justice: Diversity, Equity, and Inclusion (DE&I) — Trauma Informed Practice (TIP) — Social Emotional Learning (SEL) — Justice-Involved

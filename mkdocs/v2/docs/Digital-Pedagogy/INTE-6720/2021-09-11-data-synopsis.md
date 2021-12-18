@@ -1,10 +1,11 @@
 ---
 INTE: 6720
+date: 2021-09-11
 ---
 
 # Mental Health, Relationships, And Sex: Exploring Patterns Among Bisexual Individuals In Mixed Orientation Relationships
 
-[DRAFT] 
+[DRAFT]
 
 In the United States, sex is omnipresent in advertising, music, movies, and television, but when it comes to talking about sex in public spaces — education and workplaces — it is a censored or taboo topic. Currently, sex and sexual orientation is not openly discussed in education, while legislation is actively casting shadows on the subject. The inability to openly discuss sex and sexual orientations has a negative impact on the LGBTQ+ community, but may also generally effect the United States’ perceptions of sex and sexual orientations. When considering Diversity, Equity, and Inclusion (DE&I), as well as Trauma Informed Practices in education and workplaces, there may be a need to understand minority stresses and the relationship to mental health. In this study, researchers Jennifer A. Vencill, Samantha Carlon, Alex Iantaffi, and Michael Miner seek to expand the empirical literature concerning bisexual mental health; a population high in numbers but under represented in research (2017). Since few studies currently exist, the researchers did not enter a hypothesis, since no prior studies were known at the time, but did set parameters for inquiry.
 
