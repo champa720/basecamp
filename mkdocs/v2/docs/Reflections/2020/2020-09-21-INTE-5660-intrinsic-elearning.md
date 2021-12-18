@@ -3,7 +3,7 @@ INTE: 5660
 date: 2020-09-21
 template: blog.html
 title: Intrinsic learning
-media:
+resource:
   - type: document
     title: "Motivation in Learning"
     author: "Allen, Michael"

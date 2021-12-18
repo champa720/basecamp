@@ -3,7 +3,7 @@ INTE: 5680
 date: 2021-01-29
 template: blog.html
 title: Check out some podcasts
-media:
+resource:
   - type: website
     url: https://www.wnycstudios.org/podcasts/radiolab
   - type: website

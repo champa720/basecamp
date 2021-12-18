@@ -3,7 +3,7 @@ INTE: 5100
 date: 2020-09-13
 template: blog.html
 title: Design framework deconstruction
-media:
+resource:
   - type: video
     title: "The Models"
     URL: https://youtu.be/RwBUsAJLiqY
@@ -14,6 +14,12 @@ media:
     title: "What is Design Thinking"
     URL: https://youtu.be/0V5BwTrQOCs
 ---
+
+??? quote "Assignment"
+    As we begin the process of building our Design Documents, through thoughtful analysis and the development of our Learner Personas, let's take a moment to revisit Module 2: Models and Frameworks.
+    
+      - Which specific framework(s) have you leveraged to this point and what elements of those frameworks are useful when thinking about analysis (and be honest if you didn't find them useful or simply forgot to revisit them)?
+      - How are empathy and/or learner analysis reflected (or not) in these frameworks?
 
 ADDIE, Backwards Design, and Design Thinking are three frameworks I have employed during the initial phases of our solution design project, CAEPA-BLE: Student Ambassadors. In each of the three frameworks empathy exists at the beginning of the planning process, through Analysis of the audience. Whether it be learning gaps, prior knowledge, or time and delivery of course design, the learners are thought about first.
 

@@ -3,7 +3,7 @@ INTE: 5660
 date: 2020-09-21
 template: blog.html
 title: Achieving flow
-media:
+resource:
   - type: video
     title: "What is Flow Theory"
     URL: https://youtu.be/iUsOCR1KKms

@@ -3,7 +3,7 @@ INTE: 5660
 date: 2020-10-26
 template: blog.html
 title: School in the clouds
-media:
+resource:
   - type: video
     URL: https://youtu.be/y3jYVe1RGaU
 ---

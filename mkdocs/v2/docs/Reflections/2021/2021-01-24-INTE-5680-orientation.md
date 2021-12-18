@@ -3,7 +3,7 @@ INTE: 5680
 date: 2021-01-24
 template: blog.html
 title: Explore and post a YouTube video
-media:
+resource:
   type: video
   url: https://youtu.be/yk-1Zgi4meY
 ---

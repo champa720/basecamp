@@ -3,7 +3,7 @@ INTE: 5660
 date: 2020-10-11
 template: blog.html
 title: Allen, Michael
-media:
+resource:
   - type: document
     title: "CCAF and Interactive Instruction"
     author: "Allen, Michael"

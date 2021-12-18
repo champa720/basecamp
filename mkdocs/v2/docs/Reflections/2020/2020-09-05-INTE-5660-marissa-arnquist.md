@@ -3,7 +3,7 @@ INTE: 5660
 date: 2020-09-05
 template: blog.html
 title: Arnquist, Marissa
-media:
+resource:
   - type: document
     title: "The Role of the Technical Communicatorin the Corporate eLearning Industry"
     author: "Arnquist, Marissa"

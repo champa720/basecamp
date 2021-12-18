@@ -3,7 +3,7 @@ INTE: 5660
 date: 2020-09-08
 template: blog.html
 title: Moore's checklist
-media:
+resource:
   - type: image
     alt: "Graphic depicting the SAM2 model of preparation, iterative design phase, and iterative development phase."
     URL: http://www.gerardfriel.com/wp-content/uploads/2018/12/SAM2-model.png

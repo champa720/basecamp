@@ -3,7 +3,7 @@ INTE: 5100
 date: 2020-10-04
 template: blog.html
 title: Radical design
-media:
+resource:
   - type: video
     title: "The Unexpected Benefits of Celebrating Failures"
     URL: https://www.ted.com/talks/astro_teller_the_unexpected_benefit_of_celebrating_failure
@@ -11,6 +11,14 @@ media:
     title: "The Surprising Habits of Original Thinkers]"
     URL: https://www.ted.com/talks/adam_grant_the_surprising_habits_of_original_thinkers
 ---
+
+??? quote "Assignment"
+    Having watched the two TED talks from Module 7 related to taking chances with your solution designs, let's discuss how/if you plan to get radical. What design strategies might you implement in order to surprise learners and lead to deeper engagement?
+
+    In responding to this discussion, you might consider sharing:
+      - Theoretical strategies that push boundaries
+      - Innovative resources and tools
+      - Daring ideas (thinking BIG can seem sexy on the surface, but can also get us in over our heads. Share any big design ideas so that others can offer perspective and help keep us grounded).
 
 After watching both Ted talks, I think CAEPA-ABLE Ambassador Leaders, my current design project, fits into Radical Design. I was thinking while watching [The Unexpected Benefits of Celebrating Failures](https://www.ted.com/talks/astro_teller_the_unexpected_benefit_of_celebrating_failure) that the project definitely is not a moon-shot; however, it is reaching for the stratosphere - it is ambitious. The project has the potential to reach adult educators state-wide and as people talk, if successful, the project could be adopted into other states.
 
