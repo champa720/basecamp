@@ -1,8 +1,11 @@
 ---
+INTE: 5680
+date: 2021-04-11
 title: That 70s Reflection
 media:
   - type: video
-    URL: https://youtu.be/GmfNid-5r7U
+    title: That 70s Reflection
+    url: https://youtu.be/GmfNid-5r7U
 ---
 
 ??? quote "Assignment"

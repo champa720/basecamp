@@ -1,8 +1,11 @@
 ---
+INTE: 5680
+date: 2021-03-13
 title: The Perfect Fried Egg
 media:
   - type: website
-    URL: https://sites.google.com/view/inte-5680-mobile-mayhem/home
+    title: The Perfect Fried Egg
+    url: https://sites.google.com/view/inte-5680-mobile-mayhem/home
 ---
 
 ??? quote "Assignment"

@@ -1,8 +1,11 @@
 ---
+INTE: 5680
+date: 2021-02-28
 title: The Power of Yet
 media:
   - type: video
-    URL: https://youtu.be/HWprd5PF664
+    title: The Power of Yet
+    url: https://youtu.be/HWprd5PF664
 ---
 
 ??? quote "Assignment"

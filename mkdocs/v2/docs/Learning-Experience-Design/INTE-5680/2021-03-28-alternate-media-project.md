@@ -1,8 +1,11 @@
 ---
+INTE: 5680
+date: 2021-03-28
 title: A Day in the Life
 media:
   - type: website
-    URL: https://preview.shorthand.com/8znL3nsC2FBwzwqL
+    title: A Day in the Life
+    url: https://preview.shorthand.com/8znL3nsC2FBwzwqL
 ---
 
 ??? quote "Assignment"

@@ -1,8 +1,11 @@
 ---
+INTE: 5680
+date: 2021-04-11
 title: Scavenger Hunt
 media:
   - type: video
-    URL: https://youtu.be/8_H1HCCg79A
+    title: Scavenger Hunt
+    url: https://youtu.be/8_H1HCCg79A
 ---
 
 ??? quote "Assignment"

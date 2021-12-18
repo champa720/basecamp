@@ -1,8 +1,11 @@
 ---
+INTE: 5680
+date: 2021-04-11
 title: Stroop Effect
 media:
   - type: video
-    URL: https://youtu.be/hvsNRb1v-Xg
+    title: Stroop Effect
+    url: https://youtu.be/hvsNRb1v-Xg
 ---
 
 ??? quote "Assignment"

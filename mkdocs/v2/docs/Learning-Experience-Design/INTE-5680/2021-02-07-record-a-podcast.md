@@ -1,8 +1,11 @@
 ---
+INTE: 5680
+date: 2021-02-07
 title: Panetone, A Color Company
 media:
   - type: audio
-    URL: https://soundcloud.com/champa720/pantone-a-color-company
+    title: Panetone, A Color Company
+    url: https://soundcloud.com/champa720/pantone-a-color-company
 ---
 
 ??? quote "Assignment"

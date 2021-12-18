@@ -1,8 +1,11 @@
 ---
+INTE: 5680
+date: 2021-04-11
 title: Soundseeing Tour
 media:
   - type: audio
-    URL: https://soundcloud.com/champa720/inte-5680-soundseeing-tour
+    title: Soundseeing Tour
+    url: https://soundcloud.com/champa720/inte-5680-soundseeing-tour
 ---
 
 ??? quote "Assignment"
