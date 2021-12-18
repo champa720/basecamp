@@ -1,7 +1,8 @@
 ---
 INTE: 5300
+date: 2021-06-20
 title: Media and the Most Vulnerable Population
-media:
+resource:
   - title: Consuming Kids The Commercialization of Childhood, 2008
     url: https://youtu.be/tMaRsR7orTk
     site: https://ed.ted.com/on/CWRuB7Y9

@@ -1,9 +1,11 @@
 ---
 INTE: 5300
+date: 2021-07-31
 title: Design Document
 media:
-  - title:
-    url:
+  - type: video
+    title: Media literacy (microlearning)
+    url: https://www.loom.com/share/180b57b81d3e414bb521e744f40cedd9
 ---
 
 <div class="aspect-ratio aspect-ratio--16-9">

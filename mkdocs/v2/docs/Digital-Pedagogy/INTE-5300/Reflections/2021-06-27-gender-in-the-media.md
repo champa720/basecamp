@@ -1,7 +1,8 @@
 ---
 INTE: 5300
+date: 2021-06-27
 title: Gender in the Media
-media:
+resource:
   - title: Killing Us Softly - Advertising's Image of Women
     url: https://ucdenver.kanopy.com/embed/216733?v=20190405
     site: https://ucdenver.kanopy.com/video/killing-us-softly

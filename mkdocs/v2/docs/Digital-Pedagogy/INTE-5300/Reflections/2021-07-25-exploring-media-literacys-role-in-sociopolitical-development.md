@@ -1,7 +1,8 @@
 ---
 INTE: 5300
+date: 2021-07-25
 title: Exploring Media Literacy's role in Sociopolitical Development
-media:
+resource:
   - title:YouTube: Making the Cut, Season 2 (Trailer)
     url: https://youtu.be/wHmdfVjAYnQ
 ---

@@ -1,7 +1,8 @@
 ---
 INTE: 5300
+date: 2021-07-06
 title: Examining Portrayals of Race in the Media
-media:
+resource:
   - title: The Great White Hoax - Donald Trump and the Politics of Race and Class in America
     url: https://ucdenver.kanopy.com/embed/1022913?v=20190405
     site: https://ucdenver.kanopy.com/video/great-white-hoax

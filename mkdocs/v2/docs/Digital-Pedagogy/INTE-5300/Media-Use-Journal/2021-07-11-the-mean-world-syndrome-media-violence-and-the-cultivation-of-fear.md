@@ -1,7 +1,8 @@
 ---
 INTE: 5300
+date: 2021-07-11
 title: The Mean World Syndrome&#58; Media Violence and the Cultivation of Fear
-media:
+resource:
   - title: The Mean World Syndrome
     url: https://ucdenver.kanopy.com/embed/41625?v=20190405
     site: https://ucdenver.kanopy.com/video/mean-world-syndrome
