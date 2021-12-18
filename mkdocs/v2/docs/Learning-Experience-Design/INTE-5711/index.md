@@ -28,13 +28,13 @@ INTE: 5711
   <figcaption>Adobe Photoshop, Adobe Illustrator</figcaption>
 </figure>
 
-## PechKucha v1
+## PechaKucha v1
 
 <div class="aspect-ratio aspect-ratio--16-9">
   <iframe class="aspect-ratio--content" src="https://docs.google.com/presentation/d/e/2PACX-1vQVo6wIFzMSkDjGZX3UkVtBhNSa5EiQhihdp6Ih_kK2ghzci7tGxlPKHFH3uZFWyvjlgzcP_cbLp_Mn/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
-## PechKucha v2
+## PechaKucha v2
 
 <div class="aspect-ratio aspect-ratio--16-9">
   <iframe  class="aspect-ratio--content" src='https://www.pechakucha.com/embed/presentations/media-literacy-readers-response' frameborder='0'></iframe>

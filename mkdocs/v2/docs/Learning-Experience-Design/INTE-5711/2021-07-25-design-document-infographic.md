@@ -1,5 +1,13 @@
 ---
 INTE: 5711
+date: 2021-07-25
+media:
+  - type: illustration
+    title: Media Literacy v1
+    url: https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:d9d12b34-b638-4225-8504-6e7dd3c3e14b
+  - type: illustration
+    title: Media Literacy v2
+    url: https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:5f3ebb3c-729a-4ed1-96cd-0105fe2a7b26
 ---
 
 # Design Document: Infographic

@@ -1,8 +1,13 @@
 ---
 INTE: 5711
+date: 2021-06-20
+media:
+  - type: illustration
+    title: Designs for Low Back Pain
+    url: https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:fd4b4907-6e2c-4b61-971b-08aa02cda475
 ---
 
-# Designs for Low Back planning
+# Designs for Low Back Pain
 
 <figure markdown>
   ![Lower Back Pain Original Poster](./assets/2021-06-20-INTE-5711-Low-Back-Pain-Poster--original.jpg)

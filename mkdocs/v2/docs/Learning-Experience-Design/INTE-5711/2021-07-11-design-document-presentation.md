@@ -1,5 +1,10 @@
 ---
 INTE: 5711
+date: 2021-07-11
+media:
+  - type: video
+    title: Introduction to Media Literacy & Reader Response Theory - A Microlearning Training
+    url: https://www.pechakucha.com/embed/presentations/media-literacy-readers-response
 ---
 
 # Design Document: PechaKucha
