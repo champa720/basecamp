@@ -1,6 +1,11 @@
 ---
+INTE: 5340
+date: 2021-04-17
 title: Marketing the Future
-URL: https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:ddfe993c-dc0d-4afd-af61-c73247009c84
+media:
+  - type: illustration
+    title: AR History
+    url: https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:ddfe993c-dc0d-4afd-af61-c73247009c84
 ---
 
 ??? quote "Assignment"

@@ -1,6 +1,11 @@
 ---
+INTE: 5340
+date: 2021-03-13
 title: Remixing with the Devil
-URL: https://youtu.be/LkSEToe1OCg
+media:
+  - type: video
+    title: Remixing with the Devil
+    url: https://youtu.be/LkSEToe1OCg
 ---
 
 ??? quote "Assignment"

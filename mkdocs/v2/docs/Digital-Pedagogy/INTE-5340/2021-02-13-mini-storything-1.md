@@ -1,6 +1,7 @@
 ---
-title: Mini-thing 1
-URL:
+INTE: 5340
+date: 2021-02-13
+title: Story Archetype
 ---
 
 ??? quote "Assignment"

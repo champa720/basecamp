@@ -1,7 +1,14 @@
 ---
+INTE: 5340
+date: 2021-03-20
 title: Catfish Among Us
-URL: https://www.loom.com/share/5d186d390d9d48228de1f45b9b92a3ec
-URL: https://docs.google.com/presentation/d/1i2IZUtadOs4XOSIDnIhuaHJnSuTbwnRl5TM3WmLzf6U/edit?usp=sharing
+media:
+  - type: video
+    title: Catfish Among Us
+    url: https://www.loom.com/share/5d186d390d9d48228de1f45b9b92a3ec
+  - type: slides
+    title: Catfish Among Us (Google Slides)
+    url: https://docs.google.com/presentation/d/1i2IZUtadOs4XOSIDnIhuaHJnSuTbwnRl5TM3WmLzf6U
 ---
 
 ??? quote "Assignment"

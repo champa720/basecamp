@@ -1,12 +1,14 @@
 ---
+INTE: 5340
+date: 2021-04-03
 title: Tell a Story in Ten Frames
 media:
   - type: video
     title: Meditations
-    URL: https://youtu.be/q_k8qYgirnI
+    url: https://youtu.be/q_k8qYgirnI
   - type: video
     title: Meditations (VR)
-    URL: https://youtu.be/GptOuFICGhY
+    url: https://youtu.be/GptOuFICGhY
 ---
 
 ??? quote "Assignment"

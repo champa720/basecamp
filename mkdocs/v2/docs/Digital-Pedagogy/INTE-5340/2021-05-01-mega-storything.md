@@ -1,7 +1,11 @@
 ---
-published: false
+INTE: 5340
+date: 2021-05-01
 title: Flux Storyworld
-URL: https://sites.google.com/view/fluxstoryworld
+media:
+  - type: website
+    title: Storyworld
+    url: https://sites.google.com/view/fluxstoryworld
 ---
 
 ??? quote "Assignment"

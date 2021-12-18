@@ -1,6 +1,11 @@
 ---
+INTE: 5340
+date: 2021-02-06
 title: Artifact from the Near Future
-url: https://youtu.be/g0X6fsqqTso
+media:
+  - type: video
+    title: AR History
+    url: https://youtu.be/g0X6fsqqTso
 ---
 
 ??? quote "Assignment"

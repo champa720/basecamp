@@ -1,6 +1,11 @@
 ---
+INTE: 5340
+date: 2021-03-27
 title: Zoom Goldberg Machine
-URL: https://youtu.be/t5tmaOOv_N0
+media:
+  - type: video
+    title: Zoom Goldberg Machine
+    url: https://youtu.be/t5tmaOOv_N0
 ---
 
 ??? quote "Assignment"

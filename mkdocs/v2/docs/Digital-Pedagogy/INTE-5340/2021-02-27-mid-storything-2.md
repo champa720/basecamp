@@ -1,6 +1,11 @@
 ---
-title: Vintage poster
-URL:
+INTE: 5340
+date: 2021-02-27
+title: Vintage Poster
+media:
+  - type: illustration
+    title: Welcome to Denver
+    url: https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:4d474896-7acb-4bef-92b4-8de8b1c0b31f
 ---
 
 ??? quote "Assignment"

@@ -1,6 +1,11 @@
 ---
+INTE: 5340
+date: 2021-02-20
 title: Design Your Tribes Ink
-URL:
+media:
+  - type: illustration
+    title: Flux Capacitors
+    url: https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:80a2951b-d381-4796-98a3-c7ef2bde87ed
 ---
 
 ??? quote "Assignment"

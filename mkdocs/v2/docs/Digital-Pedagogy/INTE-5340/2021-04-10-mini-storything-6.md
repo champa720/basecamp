@@ -1,6 +1,11 @@
 ---
+INTE: 5340
+date: 2021-04-10
 title: Use Fair Use
-URL: https://youtu.be/YVBATlyNZVQ
+media:
+  - type: video
+    title: Fair Use
+    url: https://youtu.be/YVBATlyNZVQ
 ---
 
 ??? quote "Assignment"
